@@ -32,8 +32,8 @@
         },
         "Databases/tornei-elo-standard.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-17T15:02:09Z",
-            "sha256": "990d411ba4bc761e054850c5768a1ae1137ec9b4e0f4872ce20636aab50c0001",
+            "modified": "2026-09-17T15:04:05Z",
+            "sha256": "e446c82ac4338c4731d09831c62c4d3a5952df99ae48a9f935b0d1afbf9ce2e8",
             "size": 57344
         },
         "Projects/Untitled.pch": {
@@ -56,7 +56,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 5,
-    "updatedAt": "2026-09-17T15:04:01Z",
+    "revision": 6,
+    "updatedAt": "2026-09-17T15:04:09Z",
     "updatedBy": "Intel5"
 }
