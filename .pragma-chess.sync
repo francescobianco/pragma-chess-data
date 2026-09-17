@@ -1,0 +1,38 @@
+{
+    "files": {
+        "Databases/Classic Games.pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-17T07:46:34Z",
+            "sha256": "99b0311b535aa035c0f61c48e6d55f0a763e2303bfcba5f53d73a8c9b0646ff2",
+            "size": 57344
+        },
+        "Databases/cava.pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-16T17:07:48Z",
+            "sha256": "8e88ffbefe43f05a496bdd6ebb8bfa1fceec2c89e09b4f23fbd8430e1d1295a5",
+            "size": 40960
+        },
+        "Databases/prova.pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-17T07:47:57Z",
+            "sha256": "b483f70a8ac4ad3b776d4737482f14921bd7b920dbe302cedd7a0283b38bf66a",
+            "size": 57344
+        },
+        "Projects/Untitled.pch": {
+            "device": "Intel5",
+            "modified": "2026-09-16T18:14:26Z",
+            "sha256": "39e8d4de10775ecc3177cefbd5bdb839d19a222e9d5b6c00b6963c359d6eb0a5",
+            "size": 950
+        },
+        "Projects/Untitled1.pch": {
+            "device": "Intel5",
+            "modified": "2026-09-16T18:14:33Z",
+            "sha256": "39e8d4de10775ecc3177cefbd5bdb839d19a222e9d5b6c00b6963c359d6eb0a5",
+            "size": 950
+        }
+    },
+    "pragma-chess-sync": 1,
+    "revision": 1,
+    "updatedAt": "2026-09-17T13:44:11Z",
+    "updatedBy": "Intel5"
+}
