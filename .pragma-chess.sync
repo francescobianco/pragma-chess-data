@@ -6,16 +6,28 @@
             "sha256": "228c9aed0582669120257276a2f942e20cb62179643c45a62d61ce5a30db4d5b",
             "size": 128928
         },
-        "Databases/Classic Games.pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-17T16:06:17Z",
+        "Databases/Classic Games (conflict, Intel5, 2026-09-17 18.06).pdb": {
+            "device": "Yoga7",
+            "modified": "2026-09-17T19:36:37Z",
             "sha256": "465ce02f40dfafb6ccc28f6a052ee9577a8d784fff013d3f087cba4d0f96b686",
             "size": 61440
         },
-        "Databases/Opening Names.pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-17T16:00:33Z",
+        "Databases/Classic Games.pdb": {
+            "device": "Yoga7",
+            "modified": "2026-09-16T20:44:09Z",
+            "sha256": "99b0311b535aa035c0f61c48e6d55f0a763e2303bfcba5f53d73a8c9b0646ff2",
+            "size": 57344
+        },
+        "Databases/Opening Names (conflict, Intel5, 2026-09-17 18.00).pdb": {
+            "device": "Yoga7",
+            "modified": "2026-09-17T19:36:37Z",
             "sha256": "c5a7d7b72dabb8bda7c69c2f85a6d2136bb8a7856dba78a98486631d0d0f2239",
+            "size": 958464
+        },
+        "Databases/Opening Names.pdb": {
+            "device": "Yoga7",
+            "modified": "2026-09-17T19:08:53Z",
+            "sha256": "b58a751db24938b9bd8a0004af549afdccaefc5843107b2401f38e06d747bca1",
             "size": 958464
         },
         "Databases/cava.pdb": {
@@ -23,6 +35,12 @@
             "modified": "2026-09-16T17:07:48Z",
             "sha256": "8e88ffbefe43f05a496bdd6ebb8bfa1fceec2c89e09b4f23fbd8430e1d1295a5",
             "size": 40960
+        },
+        "Databases/chess-com.pdb": {
+            "device": "Yoga7",
+            "modified": "2026-09-17T19:31:47Z",
+            "sha256": "86b850994d5735c0097bf328dd051ca4583fdd0f483baf03dc1dac96b1a1fc31",
+            "size": 2801664
         },
         "Databases/prova.pdb": {
             "device": "Intel5",
@@ -48,6 +66,18 @@
             "sha256": "39e8d4de10775ecc3177cefbd5bdb839d19a222e9d5b6c00b6963c359d6eb0a5",
             "size": 950
         },
+        "Projects/chess-com.pch": {
+            "device": "Yoga7",
+            "modified": "2026-09-16T21:42:13Z",
+            "sha256": "10086af2fb52b62f04e5c4a33a1983468590c0e6a7981f1670a4e27eacb94c47",
+            "size": 741
+        },
+        "Projects/lichess.pch": {
+            "device": "Yoga7",
+            "modified": "2026-09-16T20:25:06Z",
+            "sha256": "1480c05ca72d5fcd32ac936884d6ca9cb619ed145272253e9f36664815a81b90",
+            "size": 781
+        },
         "Projects/tornei-elo-standard.pch": {
             "device": "Intel5",
             "modified": "2026-09-17T16:09:22Z",
@@ -56,7 +86,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 23,
-    "updatedAt": "2026-09-17T16:10:45Z",
-    "updatedBy": "Intel5"
+    "revision": 24,
+    "updatedAt": "2026-09-17T19:36:37Z",
+    "updatedBy": "Yoga7"
 }
