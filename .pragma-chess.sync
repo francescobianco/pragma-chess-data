@@ -12,6 +12,12 @@
             "sha256": "99b0311b535aa035c0f61c48e6d55f0a763e2303bfcba5f53d73a8c9b0646ff2",
             "size": 57344
         },
+        "Databases/Opening Names.pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-17T14:30:29Z",
+            "sha256": "c8cbab110dfcad4ae0b134ec408f5871fcf51a7550b401f1993ec9d4bf29ead1",
+            "size": 954368
+        },
         "Databases/cava.pdb": {
             "device": "Intel5",
             "modified": "2026-09-16T17:07:48Z",
@@ -50,7 +56,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 3,
-    "updatedAt": "2026-09-17T14:23:54Z",
+    "revision": 4,
+    "updatedAt": "2026-09-17T14:30:32Z",
     "updatedBy": "Intel5"
 }
