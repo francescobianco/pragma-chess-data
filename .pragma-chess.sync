@@ -50,8 +50,8 @@
         },
         "Databases/tornei-elo-standard.pdb": {
             "device": "Yoga7",
-            "modified": "2026-09-17T21:57:04Z",
-            "sha256": "25ce2495f97096b6de70878cca562439ebd7de2f109ead94f11a864e78529226",
+            "modified": "2026-09-17T21:58:45Z",
+            "sha256": "acf91ffaaca650a4f9454f6151de70ebced76d6ccedfe8d3f83489b6fcfef7a9",
             "size": 61440
         },
         "LICENSE": {
@@ -80,9 +80,9 @@
         },
         "Projects/chess-com.pch": {
             "device": "Yoga7",
-            "modified": "2026-09-17T19:54:41Z",
-            "sha256": "b27604f9db068cbe0e991f27102b2295709a458125681f6e4259204f43989d16",
-            "size": 830
+            "modified": "2026-09-17T21:58:45Z",
+            "sha256": "91acde7c7a9ee251ba6fef21bcf56d0c1cbacab4f926dca260ac659650f5ab7f",
+            "size": 842
         },
         "Projects/lichess.pch": {
             "device": "Yoga7",
@@ -104,7 +104,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 51,
-    "updatedAt": "2026-09-17T21:57:10Z",
+    "revision": 52,
+    "updatedAt": "2026-09-17T21:58:45Z",
     "updatedBy": "Yoga7"
 }
