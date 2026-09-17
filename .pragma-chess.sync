@@ -80,9 +80,9 @@
         },
         "Projects/chess-com.pch": {
             "device": "Yoga7",
-            "modified": "2026-09-17T21:58:45Z",
-            "sha256": "91acde7c7a9ee251ba6fef21bcf56d0c1cbacab4f926dca260ac659650f5ab7f",
-            "size": 842
+            "modified": "2026-09-17T22:02:04Z",
+            "sha256": "27528746121ec09ecb67e9b9e7ec05428b41e50e71dc69c33cb0c6157ada04a2",
+            "size": 832
         },
         "Projects/lichess.pch": {
             "device": "Yoga7",
@@ -104,7 +104,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 53,
-    "updatedAt": "2026-09-17T22:02:03Z",
+    "revision": 54,
+    "updatedAt": "2026-09-17T22:07:03Z",
     "updatedBy": "Yoga7"
 }
