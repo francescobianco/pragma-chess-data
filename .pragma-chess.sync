@@ -58,9 +58,9 @@
         },
         "Projects/chess-com.pch": {
             "device": "Yoga7",
-            "modified": "2026-09-17T19:52:22Z",
-            "sha256": "34d93f9d467f7555f241ee44325b829258dff61235645a6825f6d17e03bd95a7",
-            "size": 851
+            "modified": "2026-09-17T19:54:41Z",
+            "sha256": "b27604f9db068cbe0e991f27102b2295709a458125681f6e4259204f43989d16",
+            "size": 830
         },
         "Projects/lichess.pch": {
             "deleted": true,
@@ -74,7 +74,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 38,
-    "updatedAt": "2026-09-17T19:54:22Z",
+    "revision": 39,
+    "updatedAt": "2026-09-17T19:54:42Z",
     "updatedBy": "Yoga7"
 }
