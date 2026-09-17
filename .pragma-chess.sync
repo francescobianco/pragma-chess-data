@@ -11,10 +11,9 @@
             "modified": "2026-09-17T19:52:10Z"
         },
         "Databases/Classic Games.pdb": {
+            "deleted": true,
             "device": "Yoga7",
-            "modified": "2026-09-17T19:52:13Z",
-            "sha256": "a7e31520f210de1787786a05130a07bd6ca1169225a3b527c27b88dee0b384b1",
-            "size": 61440
+            "modified": "2026-09-17T19:52:28Z"
         },
         "Databases/Opening Names (conflict, Intel5, 2026-09-17 18.00).pdb": {
             "deleted": true,
@@ -57,10 +56,9 @@
             "modified": "2026-09-17T19:52:10Z"
         },
         "Projects/chess-com.pch": {
+            "deleted": true,
             "device": "Yoga7",
-            "modified": "2026-09-17T19:52:22Z",
-            "sha256": "34d93f9d467f7555f241ee44325b829258dff61235645a6825f6d17e03bd95a7",
-            "size": 851
+            "modified": "2026-09-17T19:52:28Z"
         },
         "Projects/lichess.pch": {
             "deleted": true,
@@ -74,7 +72,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 36,
-    "updatedAt": "2026-09-17T19:52:22Z",
+    "revision": 37,
+    "updatedAt": "2026-09-17T19:52:28Z",
     "updatedBy": "Yoga7"
 }
