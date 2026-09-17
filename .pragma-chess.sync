@@ -8,9 +8,9 @@
         },
         "Databases/Classic Games.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-17T07:46:34Z",
-            "sha256": "99b0311b535aa035c0f61c48e6d55f0a763e2303bfcba5f53d73a8c9b0646ff2",
-            "size": 57344
+            "modified": "2026-09-17T16:06:17Z",
+            "sha256": "465ce02f40dfafb6ccc28f6a052ee9577a8d784fff013d3f087cba4d0f96b686",
+            "size": 61440
         },
         "Databases/Opening Names.pdb": {
             "device": "Intel5",
@@ -32,8 +32,8 @@
         },
         "Databases/tornei-elo-standard.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-17T16:00:42Z",
-            "sha256": "78919e430b04a2e062bc1f48803c5085032129fa7c59d43577154f49c8b3dd62",
+            "modified": "2026-09-17T16:06:24Z",
+            "sha256": "fc6987ee136b689537b7abbc1accafe1a331dfe642e47e69884ab38f006f7fc2",
             "size": 61440
         },
         "Projects/Untitled.pch": {
@@ -50,13 +50,13 @@
         },
         "Projects/tornei-elo-standard.pch": {
             "device": "Intel5",
-            "modified": "2026-09-17T15:05:31Z",
-            "sha256": "135081eff0d64815e126444dafde050e4c403d617367bb623b47f693c97ddee9",
-            "size": 988
+            "modified": "2026-09-17T16:09:22Z",
+            "sha256": "dfed86775f6fa96d1c292723cd89bfd145fb87156eedd34a904d419ec1446e64",
+            "size": 986
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 22,
-    "updatedAt": "2026-09-17T16:01:29Z",
+    "revision": 23,
+    "updatedAt": "2026-09-17T16:10:45Z",
     "updatedBy": "Intel5"
 }
