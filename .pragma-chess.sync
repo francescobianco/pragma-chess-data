@@ -1,80 +1,20 @@
 {
     "files": {
-        "Books/Pragma Openings.bin": {
-            "deleted": true,
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:10Z"
-        },
-        "Databases/Classic Games (conflict, Intel5, 2026-09-17 18.06).pdb": {
-            "deleted": true,
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:10Z"
-        },
         "Databases/Classic Games.pdb": {
             "device": "Yoga7",
             "modified": "2026-09-17T19:52:13Z",
             "sha256": "a7e31520f210de1787786a05130a07bd6ca1169225a3b527c27b88dee0b384b1",
             "size": 61440
         },
-        "Databases/Opening Names (conflict, Intel5, 2026-09-17 18.00).pdb": {
-            "deleted": true,
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:10Z"
-        },
-        "Databases/Opening Names.pdb": {
-            "deleted": true,
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:10Z"
-        },
-        "Databases/cava.pdb": {
-            "deleted": true,
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:10Z"
-        },
-        "Databases/chess-com.pdb": {
-            "deleted": true,
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:10Z"
-        },
-        "Databases/prova.pdb": {
-            "deleted": true,
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:10Z"
-        },
-        "Databases/tornei-elo-standard.pdb": {
-            "deleted": true,
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:10Z"
-        },
-        "Projects/Untitled.pch": {
-            "deleted": true,
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:10Z"
-        },
-        "Projects/Untitled1.pch": {
-            "deleted": true,
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:10Z"
-        },
         "Projects/chess-com.pch": {
             "device": "Yoga7",
             "modified": "2026-09-17T19:54:41Z",
             "sha256": "b27604f9db068cbe0e991f27102b2295709a458125681f6e4259204f43989d16",
             "size": 830
-        },
-        "Projects/lichess.pch": {
-            "deleted": true,
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:10Z"
-        },
-        "Projects/tornei-elo-standard.pch": {
-            "deleted": true,
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:10Z"
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 39,
-    "updatedAt": "2026-09-17T19:54:42Z",
+    "revision": 40,
+    "updatedAt": "2026-09-17T20:05:16Z",
     "updatedBy": "Yoga7"
 }
