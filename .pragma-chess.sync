@@ -50,8 +50,8 @@
         },
         "Databases/tornei-elo-standard.pdb": {
             "device": "Yoga7",
-            "modified": "2026-09-17T22:09:10Z",
-            "sha256": "7a33bc2fc671bccb0aadff8b513a4074c0ca91fd2b6b26c92b4c73fb833e04a4",
+            "modified": "2026-09-17T22:09:25Z",
+            "sha256": "46c295537773141fb54ab710c88dc355d079d24feab452585a9305f349938e17",
             "size": 61440
         },
         "LICENSE": {
@@ -104,7 +104,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 55,
-    "updatedAt": "2026-09-17T22:09:11Z",
+    "revision": 56,
+    "updatedAt": "2026-09-17T22:09:27Z",
     "updatedBy": "Yoga7"
 }
