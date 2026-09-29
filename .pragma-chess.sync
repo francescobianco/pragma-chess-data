@@ -6,6 +6,12 @@
             "sha256": "c0e386b8a305620e444207349e4c08d27aa9256ea4ab06f5d57c1c3a62267961",
             "size": 1421312
         },
+        "Books/Opening Names/Old/Opening Names 2.pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T14:53:11Z",
+            "sha256": "b7e0e26b718d2fd2b52aac15aa58314a5525161b4c25eca5f0b7d1fc43ee705d",
+            "size": 1331200
+        },
         "Books/Opening Names/Old/Opening Names.pdb": {
             "device": "Intel5",
             "modified": "2026-09-29T14:51:36Z",
@@ -188,7 +194,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 96,
-    "updatedAt": "2026-09-29T14:51:43Z",
+    "revision": 97,
+    "updatedAt": "2026-09-29T14:53:18Z",
     "updatedBy": "Intel5"
 }
