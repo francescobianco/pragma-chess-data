@@ -20,8 +20,8 @@
         },
         "Books/Reportorio.bin": {
             "device": "Intel5",
-            "modified": "2026-09-29T15:12:14Z",
-            "sha256": "228c9aed0582669120257276a2f942e20cb62179643c45a62d61ce5a30db4d5b",
+            "modified": "2026-09-29T15:24:44Z",
+            "sha256": "66350fc0c8a9bd53f871537755b1694c1bf61726af53a3656527df969dd08d7f",
             "size": 128928
         },
         "Databases/Classic Games.pdb": {
@@ -257,7 +257,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 115,
-    "updatedAt": "2026-09-29T15:16:28Z",
+    "revision": 116,
+    "updatedAt": "2026-09-29T15:27:08Z",
     "updatedBy": "Intel5"
 }
