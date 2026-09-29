@@ -12,6 +12,12 @@
             "sha256": "a7e31520f210de1787786a05130a07bd6ca1169225a3b527c27b88dee0b384b1",
             "size": 61440
         },
+        "Databases/Le mie partite.pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T13:22:35Z",
+            "sha256": "6cfedc0308f82e2aa2c0477159d40b15c323bda4daae54e8f260168db4fd7a1f",
+            "size": 69632
+        },
         "Databases/Opening Names.pdb": {
             "device": "Intel5",
             "modified": "2026-09-29T13:06:22Z",
@@ -104,7 +110,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 86,
-    "updatedAt": "2026-09-29T13:06:25Z",
+    "revision": 87,
+    "updatedAt": "2026-09-29T13:26:11Z",
     "updatedBy": "Intel5"
 }
