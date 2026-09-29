@@ -24,6 +24,18 @@
             "sha256": "e852fc8c96311010fab6a5e42abc01d6046452072778428e62c8c71686685172",
             "size": 1331200
         },
+        "Books/Opening Names/Old/English 3.pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T15:01:01Z",
+            "sha256": "e569da861b09f962f7398bc8f6f077c059e4981cb9cc56bbe25c4c66320ac064",
+            "size": 1331200
+        },
+        "Books/Opening Names/Old/English 4.pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T15:00:46Z",
+            "sha256": "e852fc8c96311010fab6a5e42abc01d6046452072778428e62c8c71686685172",
+            "size": 1331200
+        },
         "Books/Opening Names/Old/English.pdb": {
             "device": "Intel5",
             "modified": "2026-09-29T15:00:43Z",
@@ -218,7 +230,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 106,
-    "updatedAt": "2026-09-29T15:00:46Z",
+    "revision": 107,
+    "updatedAt": "2026-09-29T15:01:04Z",
     "updatedBy": "Intel5"
 }
