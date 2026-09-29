@@ -7,22 +7,22 @@
             "size": 128928
         },
         "Databases/Classic Games.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-09-17T19:52:13Z",
-            "sha256": "a7e31520f210de1787786a05130a07bd6ca1169225a3b527c27b88dee0b384b1",
-            "size": 61440
+            "device": "Intel5",
+            "modified": "2026-09-29T14:15:24Z",
+            "sha256": "250118958e78c11c93d4325511aed6693f82aa09968b56ef8a8c9f75ebce9d29",
+            "size": 73728
         },
         "Databases/Le mie partite.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T13:22:35Z",
-            "sha256": "6cfedc0308f82e2aa2c0477159d40b15c323bda4daae54e8f260168db4fd7a1f",
-            "size": 69632
+            "modified": "2026-09-29T14:15:24Z",
+            "sha256": "409e221341104ff138e05f82ded605814b7db1100e5bf20176d2b90359140f4c",
+            "size": 73728
         },
         "Databases/Opening Names.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T13:06:22Z",
-            "sha256": "a076adfce97801acbbf9a8948b2af4568e47e29947ee851f9efa1ba21fc2cdfe",
-            "size": 966656
+            "modified": "2026-09-29T14:15:24Z",
+            "sha256": "ce9c9e1bc66c5e5252f2dd0d41fc869e05aac6c1b8c8a8ac0723993eeaff23ac",
+            "size": 1331200
         },
         "Databases/aaaa.pdb": {
             "device": "Yoga7",
@@ -110,7 +110,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 87,
-    "updatedAt": "2026-09-29T13:26:11Z",
+    "revision": 88,
+    "updatedAt": "2026-09-29T14:15:26Z",
     "updatedBy": "Intel5"
 }
