@@ -43,10 +43,10 @@
             "size": 2801664
         },
         "Databases/prova.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-09-17T21:52:44Z",
-            "sha256": "b483f70a8ac4ad3b776d4737482f14921bd7b920dbe302cedd7a0283b38bf66a",
-            "size": 57344
+            "device": "Intel5",
+            "modified": "2026-09-29T12:46:05Z",
+            "sha256": "fea60723b69b0473ece3fbb4a88c5e85c0e5ca179ac17fd16f5f5475f1cb8c00",
+            "size": 61440
         },
         "Databases/tornei-elo-standard.pdb": {
             "device": "Intel5",
@@ -104,7 +104,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 84,
-    "updatedAt": "2026-09-29T12:45:37Z",
+    "revision": 85,
+    "updatedAt": "2026-09-29T12:46:21Z",
     "updatedBy": "Intel5"
 }
