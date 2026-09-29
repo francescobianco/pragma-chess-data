@@ -13,10 +13,10 @@
             "size": 61440
         },
         "Databases/Opening Names.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-09-17T21:52:44Z",
-            "sha256": "b58a751db24938b9bd8a0004af549afdccaefc5843107b2401f38e06d747bca1",
-            "size": 958464
+            "device": "Intel5",
+            "modified": "2026-09-29T13:06:22Z",
+            "sha256": "a076adfce97801acbbf9a8948b2af4568e47e29947ee851f9efa1ba21fc2cdfe",
+            "size": 966656
         },
         "Databases/aaaa.pdb": {
             "device": "Yoga7",
@@ -44,9 +44,9 @@
         },
         "Databases/prova.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T12:46:05Z",
-            "sha256": "fea60723b69b0473ece3fbb4a88c5e85c0e5ca179ac17fd16f5f5475f1cb8c00",
-            "size": 61440
+            "modified": "2026-09-29T13:06:22Z",
+            "sha256": "9141b97bafd25df7eac011c4d5affccf8c621a9172c9115d2d420ebf21ba54d1",
+            "size": 69632
         },
         "Databases/tornei-elo-standard.pdb": {
             "device": "Intel5",
@@ -104,7 +104,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 85,
-    "updatedAt": "2026-09-29T12:46:21Z",
+    "revision": 86,
+    "updatedAt": "2026-09-29T13:06:25Z",
     "updatedBy": "Intel5"
 }
