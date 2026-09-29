@@ -12,10 +12,16 @@
             "sha256": "e0a05cac6ace38411e0d3db96a1a921d085ad7cc56360d6036e308d1bc881bfa",
             "size": 73728
         },
+        "Databases/Le mie partite (Samsung SM-N960F).pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T14:41:07Z",
+            "sha256": "ccd754091814d604b32cf5da8a1c45c3ab9e239495d4ff9b90190fcc9ad58a96",
+            "size": 73728
+        },
         "Databases/Le mie partite.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T14:15:24Z",
-            "sha256": "409e221341104ff138e05f82ded605814b7db1100e5bf20176d2b90359140f4c",
+            "modified": "2026-09-29T14:40:56Z",
+            "sha256": "fd1e3d886ff493a6ed3cf4bbc55abb25cd7948655dc9bfa9be49e22d4d924fd1",
             "size": 73728
         },
         "Databases/Opening Names.pdb": {
@@ -24,41 +30,77 @@
             "sha256": "8bfcc68700c3ec467d2f2035ccf216b2d7b471fd89bdf4966a829049b2e9935f",
             "size": 1331200
         },
+        "Databases/aaaa (Samsung SM-N960F).pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T14:40:58Z",
+            "sha256": "d56ec863e94e7128bfcae10754b30df41359f7f95def187b2ed2d905dc24c1e7",
+            "size": 73728
+        },
         "Databases/aaaa.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-09-17T20:36:11Z",
-            "sha256": "be2fdec0f616d842b8e974afb78d25baef68d7dd1baeb504916334762ff511a2",
-            "size": 61440
+            "device": "Intel5",
+            "modified": "2026-09-29T14:40:56Z",
+            "sha256": "8beba5ffc1661239c3c5108634119ed8e85e0ad9dcc488fadfb9b7219175c5b6",
+            "size": 73728
+        },
+        "Databases/allenamento (Samsung SM-N960F).pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T14:40:58Z",
+            "sha256": "86594f6fafb1eceafe05d14cd1483d72c87d634b030db0ed2c07f01d0aaad192",
+            "size": 73728
         },
         "Databases/allenamento.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T14:22:16Z",
-            "sha256": "9d11a0f13068f0200b4989b63aa91c567c56d04a96ee887fa33ec30b9c786161",
+            "modified": "2026-09-29T14:40:56Z",
+            "sha256": "d144aef1dcdd95b9e9db4031064342f1b8bf71645f53f244b4ac7665daf471ba",
+            "size": 73728
+        },
+        "Databases/cava (Samsung SM-N960F).pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T14:40:58Z",
+            "sha256": "653af39c7cb97bbf1d29dab23b66b1251c0ada356d586f7faee096c1dbea5bef",
             "size": 73728
         },
         "Databases/cava.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-09-17T21:52:44Z",
-            "sha256": "fea60723b69b0473ece3fbb4a88c5e85c0e5ca179ac17fd16f5f5475f1cb8c00",
-            "size": 61440
+            "device": "Intel5",
+            "modified": "2026-09-29T14:40:56Z",
+            "sha256": "fe799ec22e90542c3a7e66b9424f854a5979024090c21a60f315da5903feee2f",
+            "size": 73728
+        },
+        "Databases/chess-com (Samsung SM-N960F).pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T14:41:07Z",
+            "sha256": "9a0b6a23327524dd5379f8ec48b7266781a939e20032d24d197627aa15e8a2c9",
+            "size": 3186688
         },
         "Databases/chess-com.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T12:45:36Z",
-            "sha256": "f6d53bdc844661e6eb268c8f62d39322eb7e96fa80c9f4ccf959c9c0ef9f16e6",
-            "size": 2801664
+            "modified": "2026-09-29T14:40:56Z",
+            "sha256": "8a9b93c106fd75ab38394959c39a1ffa561ef909110731413bb46c3ae4832e21",
+            "size": 3256320
+        },
+        "Databases/prova (Samsung SM-N960F).pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T14:41:07Z",
+            "sha256": "cc11883ccf64294bf484d9d0ede0e45c455ad36f6f35ed1c42ec99c20115e21b",
+            "size": 73728
         },
         "Databases/prova.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T13:06:22Z",
-            "sha256": "9141b97bafd25df7eac011c4d5affccf8c621a9172c9115d2d420ebf21ba54d1",
-            "size": 69632
+            "modified": "2026-09-29T14:40:56Z",
+            "sha256": "e07a2248c2c48d0e677b149b41b756129043066196431da084779e1ac6889911",
+            "size": 73728
+        },
+        "Databases/tornei-elo-standard (Samsung SM-N960F).pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T14:41:07Z",
+            "sha256": "9907a6f26f890c971431942c0e459e65447359e0e4a6991c92891efe5fb13b92",
+            "size": 81920
         },
         "Databases/tornei-elo-standard.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T09:52:15Z",
-            "sha256": "ab9d9a39ad2510bcbd0fc0480796586824a60da7b65b7d5196898fbafa501de7",
-            "size": 61440
+            "modified": "2026-09-29T14:40:56Z",
+            "sha256": "b20669e430c32577e073fb90c799c6e42b29f84428cc9ad30443d46b35d73d68",
+            "size": 81920
         },
         "LICENSE": {
             "device": "Yoga7",
@@ -110,7 +152,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 90,
-    "updatedAt": "2026-09-29T14:25:29Z",
+    "revision": 91,
+    "updatedAt": "2026-09-29T14:44:21Z",
     "updatedBy": "Intel5"
 }
