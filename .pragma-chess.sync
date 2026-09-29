@@ -12,18 +12,6 @@
             "sha256": "7276031e165699a65e94d2dd83002dd1abfa706f82bd7a236185efd876c2659b",
             "size": 1421312
         },
-        "Books/Opening Names/Nomi delle aperture.pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T14:49:44Z",
-            "sha256": "c0e386b8a305620e444207349e4c08d27aa9256ea4ab06f5d57c1c3a62267961",
-            "size": 1421312
-        },
-        "Books/Opening Names/Opening Names.pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T14:49:44Z",
-            "sha256": "e852fc8c96311010fab6a5e42abc01d6046452072778428e62c8c71686685172",
-            "size": 1331200
-        },
         "Books/Pragma Openings.bin": {
             "device": "Yoga7",
             "modified": "2026-09-17T21:52:44Z",
@@ -41,12 +29,6 @@
             "modified": "2026-09-29T15:05:12Z",
             "sha256": "daf358b18878224b97901af886b7acb21bc0cd6d9ae7940c0a37fc5af35b35be",
             "size": 73728
-        },
-        "Databases/Opening Names.pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T14:20:28Z",
-            "sha256": "8bfcc68700c3ec467d2f2035ccf216b2d7b471fd89bdf4966a829049b2e9935f",
-            "size": 1331200
         },
         "Databases/aaaa.pdb": {
             "device": "Intel5",
@@ -134,6 +116,13 @@
         }
     },
     "merged": {
+        "Books/Opening Names/Nomi delle aperture.pdb": {
+            "at": "2026-09-29T15:10:30Z",
+            "device": "Intel5",
+            "into": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c03",
+            "intoPath": "Books/Opening Names/Italian.pdb",
+            "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c03"
+        },
         "Books/Opening Names/Old/English 2.pdb": {
             "at": "2026-09-29T15:05:10Z",
             "device": "Intel5",
@@ -197,12 +186,26 @@
             "intoPath": "Books/Opening Names/English.pdb",
             "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c01"
         },
+        "Books/Opening Names/Opening Names.pdb": {
+            "at": "2026-09-29T15:10:30Z",
+            "device": "Intel5",
+            "into": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c01",
+            "intoPath": "Books/Opening Names/English.pdb",
+            "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c01"
+        },
         "Databases/Le mie partite (Samsung SM-N960F).pdb": {
             "at": "2026-09-29T15:05:12Z",
             "device": "Intel5",
             "into": "204307e9-5c48-4b88-8c38-0813617682e7",
             "intoPath": "Databases/Le mie partite.pdb",
             "lineage": "204307e9-5c48-4b88-8c38-0813617682e7"
+        },
+        "Databases/Opening Names.pdb": {
+            "at": "2026-09-29T15:10:30Z",
+            "device": "Intel5",
+            "into": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c01",
+            "intoPath": "Books/Opening Names/English.pdb",
+            "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c01"
         },
         "Databases/aaaa (Samsung SM-N960F).pdb": {
             "at": "2026-09-29T15:05:12Z",
@@ -248,7 +251,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 113,
-    "updatedAt": "2026-09-29T15:10:30Z",
+    "revision": 114,
+    "updatedAt": "2026-09-29T15:10:37Z",
     "updatedBy": "Intel5"
 }
