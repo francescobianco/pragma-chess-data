@@ -54,28 +54,16 @@
             "sha256": "6dd351da55b1f3186de6c8d16cc7257da3752139cfc0c4996d1af4b1ba16039c",
             "size": 73728
         },
-        "Databases/allenamento (Samsung SM-N960F).pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T14:40:58Z",
-            "sha256": "86594f6fafb1eceafe05d14cd1483d72c87d634b030db0ed2c07f01d0aaad192",
-            "size": 73728
-        },
         "Databases/allenamento.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T14:40:56Z",
-            "sha256": "d144aef1dcdd95b9e9db4031064342f1b8bf71645f53f244b4ac7665daf471ba",
-            "size": 73728
-        },
-        "Databases/cava (Samsung SM-N960F).pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T14:40:58Z",
-            "sha256": "653af39c7cb97bbf1d29dab23b66b1251c0ada356d586f7faee096c1dbea5bef",
+            "modified": "2026-09-29T15:07:15Z",
+            "sha256": "17dc0405c4621a62080bb8866185c4e2b0f4f891e0802a8ce398f3a6bfe3b693",
             "size": 73728
         },
         "Databases/cava.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T14:40:56Z",
-            "sha256": "fe799ec22e90542c3a7e66b9424f854a5979024090c21a60f315da5903feee2f",
+            "modified": "2026-09-29T15:07:15Z",
+            "sha256": "eec63022494bf3d6fdd2ef14529b1ea3bf21419018ba1b93d429ddf06de95b7b",
             "size": 73728
         },
         "Databases/chess-com.pdb": {
@@ -83,12 +71,6 @@
             "modified": "2026-09-29T14:40:56Z",
             "sha256": "8a9b93c106fd75ab38394959c39a1ffa561ef909110731413bb46c3ae4832e21",
             "size": 3256320
-        },
-        "Databases/prova (Samsung SM-N960F).pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T14:41:07Z",
-            "sha256": "cc11883ccf64294bf484d9d0ede0e45c455ad36f6f35ed1c42ec99c20115e21b",
-            "size": 73728
         },
         "Databases/prova.pdb": {
             "device": "Intel5",
@@ -229,12 +211,33 @@
             "intoPath": "Databases/aaaa.pdb",
             "lineage": "219cf7ef-773b-4894-9090-a01e2408fb13"
         },
+        "Databases/allenamento (Samsung SM-N960F).pdb": {
+            "at": "2026-09-29T15:07:15Z",
+            "device": "Intel5",
+            "into": "35720e2a-f3fd-4e4d-8513-498268334a7c",
+            "intoPath": "Databases/allenamento.pdb",
+            "lineage": "35720e2a-f3fd-4e4d-8513-498268334a7c"
+        },
+        "Databases/cava (Samsung SM-N960F).pdb": {
+            "at": "2026-09-29T15:07:15Z",
+            "device": "Intel5",
+            "into": "7aca0501-59e6-4c9a-b723-3c1b6e905195",
+            "intoPath": "Databases/cava.pdb",
+            "lineage": "7aca0501-59e6-4c9a-b723-3c1b6e905195"
+        },
         "Databases/chess-com (Samsung SM-N960F).pdb": {
             "at": "2026-09-29T15:05:13Z",
             "device": "Intel5",
             "into": "0f69a9e9-7bf8-40e8-aa9d-841e4edb119a",
             "intoPath": "Databases/chess-com.pdb",
             "lineage": "3443a567-212c-468d-b8ef-8a3bb71e73fc"
+        },
+        "Databases/prova (Samsung SM-N960F).pdb": {
+            "at": "2026-09-29T15:07:15Z",
+            "device": "Intel5",
+            "into": "8b468108-becb-428a-a050-5f280fd472e2",
+            "intoPath": "Databases/prova.pdb",
+            "lineage": "cb1bec4c-969f-47a9-b908-46f32ac4690f"
         },
         "Databases/tornei-elo-standard (Samsung SM-N960F).pdb": {
             "at": "2026-09-29T15:05:13Z",
@@ -245,7 +248,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 111,
-    "updatedAt": "2026-09-29T15:05:13Z",
+    "revision": 112,
+    "updatedAt": "2026-09-29T15:07:16Z",
     "updatedBy": "Intel5"
 }
