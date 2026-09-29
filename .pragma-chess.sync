@@ -1,5 +1,17 @@
 {
     "files": {
+        "Books/Opening Names/English.pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T14:58:38Z",
+            "sha256": "388806cc9a7234d4787d895f773f568f8fa726ceaed0a49ba869b2dc3c02044a",
+            "size": 1404928
+        },
+        "Books/Opening Names/Italian.pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T14:58:38Z",
+            "sha256": "c0e386b8a305620e444207349e4c08d27aa9256ea4ab06f5d57c1c3a62267961",
+            "size": 1421312
+        },
         "Books/Opening Names/Nomi delle aperture.pdb": {
             "device": "Intel5",
             "modified": "2026-09-29T14:49:44Z",
@@ -194,7 +206,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 101,
-    "updatedAt": "2026-09-29T14:58:29Z",
+    "revision": 102,
+    "updatedAt": "2026-09-29T14:58:40Z",
     "updatedBy": "Intel5"
 }
