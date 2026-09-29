@@ -49,9 +49,9 @@
             "size": 57344
         },
         "Databases/tornei-elo-standard.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-09-17T22:13:10Z",
-            "sha256": "5ce5e2bf0e7f600b7c9a3f57a695ffd3414ab301dbca4642a80b529bc35be281",
+            "device": "Intel5",
+            "modified": "2026-09-29T06:47:30Z",
+            "sha256": "6257ead2613f0041966cd0129951398d824d0933f748317ba653db296302652e",
             "size": 61440
         },
         "LICENSE": {
@@ -91,10 +91,10 @@
             "size": 781
         },
         "Projects/tornei-elo-standard.pch": {
-            "device": "Yoga7",
-            "modified": "2026-09-17T21:52:44Z",
-            "sha256": "dfed86775f6fa96d1c292723cd89bfd145fb87156eedd34a904d419ec1446e64",
-            "size": 986
+            "device": "Intel5",
+            "modified": "2026-09-18T07:26:16Z",
+            "sha256": "6ed588849860f9719724ba7ccde8060ec15f6774d650364862a20d0b7f6f2a30",
+            "size": 1041
         },
         "README.md": {
             "device": "Yoga7",
@@ -104,7 +104,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 60,
-    "updatedAt": "2026-09-28T17:42:12Z",
-    "updatedBy": "Yoga7"
+    "revision": 61,
+    "updatedAt": "2026-09-29T06:47:32Z",
+    "updatedBy": "Intel5"
 }
