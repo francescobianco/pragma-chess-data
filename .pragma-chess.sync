@@ -38,8 +38,8 @@
         },
         "Databases/chess-com.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T10:34:23Z",
-            "sha256": "fdeb2553d735c895651597ead9614719909916a5f39b97afa832718dfd3c33f2",
+            "modified": "2026-09-29T11:09:42Z",
+            "sha256": "431553eda2730b2e7a92ac3f2ba28e41cc2941cc70a696f6a21dbbc00edbe2b0",
             "size": 2801664
         },
         "Databases/prova.pdb": {
@@ -104,7 +104,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 64,
-    "updatedAt": "2026-09-29T10:34:24Z",
+    "revision": 65,
+    "updatedAt": "2026-09-29T11:09:44Z",
     "updatedBy": "Intel5"
 }
