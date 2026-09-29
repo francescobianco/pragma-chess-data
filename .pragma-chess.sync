@@ -8,8 +8,8 @@
         },
         "Databases/Classic Games.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T14:15:24Z",
-            "sha256": "250118958e78c11c93d4325511aed6693f82aa09968b56ef8a8c9f75ebce9d29",
+            "modified": "2026-09-29T14:20:28Z",
+            "sha256": "e0a05cac6ace38411e0d3db96a1a921d085ad7cc56360d6036e308d1bc881bfa",
             "size": 73728
         },
         "Databases/Le mie partite.pdb": {
@@ -20,8 +20,8 @@
         },
         "Databases/Opening Names.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T14:15:24Z",
-            "sha256": "ce9c9e1bc66c5e5252f2dd0d41fc869e05aac6c1b8c8a8ac0723993eeaff23ac",
+            "modified": "2026-09-29T14:20:28Z",
+            "sha256": "8bfcc68700c3ec467d2f2035ccf216b2d7b471fd89bdf4966a829049b2e9935f",
             "size": 1331200
         },
         "Databases/aaaa.pdb": {
@@ -110,7 +110,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 88,
-    "updatedAt": "2026-09-29T14:15:26Z",
+    "revision": 89,
+    "updatedAt": "2026-09-29T14:20:30Z",
     "updatedBy": "Intel5"
 }
