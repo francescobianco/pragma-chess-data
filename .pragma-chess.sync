@@ -54,16 +54,10 @@
             "sha256": "eec63022494bf3d6fdd2ef14529b1ea3bf21419018ba1b93d429ddf06de95b7b",
             "size": 73728
         },
-        "Databases/chess-com (conflict, Intel5, 2026-09-29 17.43).pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T15:43:15Z",
-            "sha256": "fc94e8ba5278a6e9ef236e90ec2b32d1e9f1b51acf0e8a0b5fb9244a4c50a1f7",
-            "size": 3256320
-        },
         "Databases/chess-com.pdb": {
             "device": "Intel5",
-            "modified": "2026-09-29T15:43:13Z",
-            "sha256": "75832b276eab73bceb22516f7759967d8df2be5f0723779a38b446cdf5298585",
+            "modified": "2026-09-29T15:43:17Z",
+            "sha256": "87f8301f8ecdb212bc72e1c81f3dbe2c078beeee07d978c9cf4d2e6fbd81a7fd",
             "size": 3256320
         },
         "Databases/prova.pdb": {
@@ -247,6 +241,13 @@
             "intoPath": "Databases/chess-com.pdb",
             "lineage": "3443a567-212c-468d-b8ef-8a3bb71e73fc"
         },
+        "Databases/chess-com (conflict, Intel5, 2026-09-29 17.43).pdb": {
+            "at": "2026-09-29T15:43:16Z",
+            "device": "Intel5",
+            "into": "0f69a9e9-7bf8-40e8-aa9d-841e4edb119a",
+            "intoPath": "Databases/chess-com.pdb",
+            "lineage": "0f69a9e9-7bf8-40e8-aa9d-841e4edb119a"
+        },
         "Databases/prova (Samsung SM-N960F).pdb": {
             "at": "2026-09-29T15:07:15Z",
             "device": "Intel5",
@@ -263,7 +264,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 135,
-    "updatedAt": "2026-09-29T15:43:16Z",
+    "revision": 136,
+    "updatedAt": "2026-09-29T15:43:18Z",
     "updatedBy": "Intel5"
 }
