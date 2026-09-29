@@ -31,10 +31,10 @@
             "size": 61440
         },
         "Databases/allenamento.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-09-17T20:36:37Z",
-            "sha256": "7d7e5731b411caca1932fd944e0b7487108ced68eb9a229d81f8659d4bd54ba7",
-            "size": 61440
+            "device": "Intel5",
+            "modified": "2026-09-29T14:22:16Z",
+            "sha256": "9d11a0f13068f0200b4989b63aa91c567c56d04a96ee887fa33ec30b9c786161",
+            "size": 73728
         },
         "Databases/cava.pdb": {
             "device": "Yoga7",
@@ -110,7 +110,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 89,
-    "updatedAt": "2026-09-29T14:20:30Z",
+    "revision": 90,
+    "updatedAt": "2026-09-29T14:25:29Z",
     "updatedBy": "Intel5"
 }
