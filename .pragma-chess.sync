@@ -31,10 +31,10 @@
             "size": 73728
         },
         "Databases/Le mie partite.pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T16:16:00Z",
-            "sha256": "3db4c61fec1da549af961eaa5347bf7ef25834009f5fa51d0497dc6237d7df1f",
-            "size": 73728
+            "device": "Yoga7",
+            "modified": "2026-10-02T19:26:46Z",
+            "sha256": "8b41e50e920c1317e4c5c6f2cc18eb84b3db7db9275039460247f41192b8bba0",
+            "size": 86016
         },
         "Databases/Prova (Samsung SM-N960F).pdb": {
             "device": "Intel5",
@@ -62,8 +62,8 @@
         },
         "Databases/chess-com.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-02T19:23:07Z",
-            "sha256": "fe9794ca824652e0e1cc5e4b79522b93efa89a0cef9b287a2787e597429f1399",
+            "modified": "2026-10-02T19:29:18Z",
+            "sha256": "80dd957211bf78444123ae3d3e24d697b95a0a1a8477ed977af8364e9f323b65",
             "size": 3268608
         },
         "Databases/prova.pdb": {
@@ -298,7 +298,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 156,
-    "updatedAt": "2026-10-02T19:23:09Z",
+    "revision": 157,
+    "updatedAt": "2026-10-02T19:29:19Z",
     "updatedBy": "Yoga7"
 }
