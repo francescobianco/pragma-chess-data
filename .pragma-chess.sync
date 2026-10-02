@@ -62,8 +62,8 @@
         },
         "Databases/chess-com.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-02T21:51:57Z",
-            "sha256": "e2b8e1a89c16a2573aef947952a47a0e10a7317162dc42a5577f9a005566e5cf",
+            "modified": "2026-10-02T21:56:22Z",
+            "sha256": "8fa316e65d532b6e782add965ca6097458c0846331841df287ad2701445f39dc",
             "size": 3276800
         },
         "Databases/prova.pdb": {
@@ -298,7 +298,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 209,
-    "updatedAt": "2026-10-02T21:51:58Z",
+    "revision": 210,
+    "updatedAt": "2026-10-02T21:56:23Z",
     "updatedBy": "Yoga7"
 }
