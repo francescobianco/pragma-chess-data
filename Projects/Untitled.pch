@@ -1,10 +1,10 @@
 # Pragma Chess project
 pragma-chess: 1
 database:
-  path: /home/francesco/Scacchi/Pragma/Databases/allenamento.pdb
+  path: /home/francesco/Scacchi/Pragma/Databases/chess-com.pdb
 game:
-  moves: e2e4 e7e5 f2f4 e5f4 e1e2
-  ply: 4
+  id: 2973
+  ply: 0
 board:
   flipped: false
   coordinates: true
