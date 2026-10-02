@@ -14,8 +14,8 @@
         },
         "Books/Pragma Openings.bin": {
             "device": "Yoga7",
-            "modified": "2026-09-17T21:52:44Z",
-            "sha256": "228c9aed0582669120257276a2f942e20cb62179643c45a62d61ce5a30db4d5b",
+            "modified": "2026-10-02T19:21:20Z",
+            "sha256": "117424de93770ef34a01a904b8d9319de8e315b76300b65cda247a863039bce7",
             "size": 128928
         },
         "Books/Reportorio.bin": {
@@ -298,7 +298,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 154,
-    "updatedAt": "2026-10-02T19:18:04Z",
+    "revision": 155,
+    "updatedAt": "2026-10-02T19:23:02Z",
     "updatedBy": "Yoga7"
 }
