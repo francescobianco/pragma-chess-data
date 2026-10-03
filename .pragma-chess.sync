@@ -1,5 +1,11 @@
 {
     "files": {
+        "Books/Libro Pazzo.bin": {
+            "device": "Yoga7",
+            "modified": "2026-10-03T13:18:07Z",
+            "sha256": "228c9aed0582669120257276a2f942e20cb62179643c45a62d61ce5a30db4d5b",
+            "size": 128928
+        },
         "Books/Opening Names/English.pdb": {
             "device": "Yoga7",
             "modified": "2026-10-02T17:34:52Z",
@@ -62,8 +68,8 @@
         },
         "Databases/chess-com.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-03T13:16:47Z",
-            "sha256": "35127074b4bbe343ba61df536f5b0d4ab1538c17ec12ebbadc96d5e237b0bec3",
+            "modified": "2026-10-03T13:19:06Z",
+            "sha256": "265940cb1c68afd3d50ba4d00ea3fc89b79b1d6aec4656b1b49c5f8db4c6836f",
             "size": 3276800
         },
         "Databases/prova.pdb": {
@@ -298,7 +304,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 237,
-    "updatedAt": "2026-10-03T13:16:49Z",
+    "revision": 238,
+    "updatedAt": "2026-10-03T13:19:07Z",
     "updatedBy": "Yoga7"
 }
