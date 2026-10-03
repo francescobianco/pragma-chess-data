@@ -8,8 +8,8 @@
         },
         "Books/Opening Names/Italian.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-02T19:15:49Z",
-            "sha256": "43ca6f430d5ceb0aef5c6dd9af978687993fb3c2b448ab0bfa4c25468bdfa69e",
+            "modified": "2026-10-03T13:03:57Z",
+            "sha256": "90ca1de1099cb4daaade674af7d73a7b4e05051bd5999c7bc804f3ffa835c26b",
             "size": 1433600
         },
         "Books/Pragma Openings.bin": {
@@ -62,8 +62,8 @@
         },
         "Databases/chess-com.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-03T13:02:32Z",
-            "sha256": "b5b004336a6ed3ee9751393f154f9fbf16c1a6b28faf146ddd84d974d5c16b8c",
+            "modified": "2026-10-03T13:03:59Z",
+            "sha256": "05de2ec89e9e43db376848227c599d76006bf16925b08ff3cc98175aaca0de57",
             "size": 3276800
         },
         "Databases/prova.pdb": {
@@ -298,7 +298,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 224,
-    "updatedAt": "2026-10-03T13:02:34Z",
+    "revision": 225,
+    "updatedAt": "2026-10-03T13:04:00Z",
     "updatedBy": "Yoga7"
 }
