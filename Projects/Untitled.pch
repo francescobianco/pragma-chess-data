@@ -21,7 +21,7 @@ workspace:
     openingTree: true
     engine: true
     games: true
-  gamesHeight: 25
-  movesWidth: 32
-  engineHeight: 56
+  gamesHeight: 20
+  movesWidth: 27
+  engineHeight: 37
   treeWidth: 18
