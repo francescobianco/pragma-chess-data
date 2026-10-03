@@ -3,8 +3,8 @@ pragma-chess: 1
 database:
   path: /home/francesco/Scacchi/Pragma/Databases/chess-com.pdb
 game:
-  moves: e2e4
-  ply: 0
+  moves: b1a3 e7e5 d2d3 f8a3 b2a3 d7d5 e2e3
+  ply: 7
 board:
   flipped: true
   coordinates: true
