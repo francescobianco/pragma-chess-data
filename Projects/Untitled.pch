@@ -3,10 +3,10 @@ pragma-chess: 1
 database:
   path: /home/francesco/Scacchi/Pragma/Databases/chess-com.pdb
 game:
-  moves: b1a3 e7e5 d2d3 f8a3 b2a3 d7d5 e2e3
-  ply: 7
+  id: 2968
+  ply: 0
 board:
-  flipped: true
+  flipped: false
   coordinates: true
 engine:
   id: bundled
@@ -21,7 +21,7 @@ workspace:
     openingTree: true
     engine: true
     games: true
-  gamesHeight: 20
-  movesWidth: 27
-  engineHeight: 37
-  treeWidth: 18
+  gamesHeight: 30
+  movesWidth: 50
+  engineHeight: 39
+  treeWidth: 15
