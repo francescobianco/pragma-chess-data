@@ -2,8 +2,8 @@
     "files": {
         "Books/Libro Pazzo.bin": {
             "device": "Yoga7",
-            "modified": "2026-10-03T13:35:24Z",
-            "sha256": "3c996b213e17cf6b9a20b354cc7d249eeb2bad9bfe6b5c0f46827a3a5b3ba027",
+            "modified": "2026-10-03T13:39:38Z",
+            "sha256": "6a514dab3c2c79369836fc45ef13fbfaba8330329483a8bd032dcd2b9e80ed54",
             "size": 128928
         },
         "Books/Opening Names/English.pdb": {
@@ -304,7 +304,7 @@
         }
     },
     "pragma-chess-sync": 1,
-    "revision": 252,
-    "updatedAt": "2026-10-03T13:39:25Z",
+    "revision": 253,
+    "updatedAt": "2026-10-03T13:44:23Z",
     "updatedBy": "Yoga7"
 }
