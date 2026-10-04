@@ -1,5 +1,10 @@
 {
     "deleted": {
+        "Databases/Classic Games.pdb": {
+            "at": "2026-10-04T17:38:50Z",
+            "device": "Yoga7",
+            "sha256": "e0411218e92f5d64a6425cf9e6548464f72f2dc3eb49a80c9afb3e95ac66190d"
+        },
         "Databases/Le mie partite.pdb": {
             "at": "2026-10-04T16:33:46Z",
             "device": "Yoga7",
@@ -56,12 +61,6 @@
             "modified": "2026-09-29T15:24:44Z",
             "sha256": "66350fc0c8a9bd53f871537755b1694c1bf61726af53a3656527df969dd08d7f",
             "size": 128928
-        },
-        "Databases/Classic Games.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-10-04T16:44:31Z",
-            "sha256": "e0411218e92f5d64a6425cf9e6548464f72f2dc3eb49a80c9afb3e95ac66190d",
-            "size": 86016
         },
         "Databases/allenamento.pdb": {
             "device": "Yoga7",
@@ -307,7 +306,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 336,
-    "updatedAt": "2026-10-04T17:38:34Z",
+    "revision": 337,
+    "updatedAt": "2026-10-04T17:38:51Z",
     "updatedBy": "Yoga7"
 }
