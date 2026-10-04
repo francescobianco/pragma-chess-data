@@ -14,19 +14,19 @@ chapters:
       game: 0
       ply: 1
       games:
-        - moves: e2e4
+        - moves: e2e4 e7e5
           paragraphs:
             - ply: 0
               text: |
-
-                asdasd
-                asdasd
-                asdadasd
-
-                asdadas
-
-                aasdalkdòladòlakdalòd
-                asdlaòsdlk
+                sdasdadasd asd ads ad  ads a d ad asd a sd as da ds as da d a ds ads asd as da sd ad as d asd a fsd fs df dsfsd f sdf sd f sdf sd f sdf sd fsd f sd fsd f sd fsd f ds fs df sd f sd f sd fsd f sd f sdf sd f sdfsdfsdf sd fs df sd fsd f sd f sd fs d fsd f sd f sd f sdf sd f sdf 
+        - date: 2026.10.05
+          result: "*"
+        - date: 2026.10.04
+          result: "*"
+          moves: e2e4 e7e5 f2f4
+        - date: 2026.10.05
+          result: "*"
+          moves: e2e4
 board:
   flipped: false
   coordinates: true
@@ -43,5 +43,5 @@ workspace:
     games: true
   gamesHeight: 29.26
   movesWidth: 42.87
-  engineHeight: 36.01
-  treeWidth: 25.1
+  engineHeight: 43.88
+  treeWidth: 26.41
