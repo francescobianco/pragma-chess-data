@@ -1,4 +1,31 @@
 {
+    "deleted": {
+        "Databases/Le mie partite.pdb": {
+            "at": "2026-10-04T16:33:46Z",
+            "device": "Yoga7",
+            "sha256": "8b41e50e920c1317e4c5c6f2cc18eb84b3db7db9275039460247f41192b8bba0"
+        },
+        "Databases/Prova (Samsung SM-N960F).pdb": {
+            "at": "2026-10-04T16:33:46Z",
+            "device": "Yoga7",
+            "sha256": "ddbca1d1457de55b91f6a5774cea41f08b8e595b9f8e8b1faad0b01245b0e0b2"
+        },
+        "Databases/aaaa.pdb": {
+            "at": "2026-10-04T16:33:46Z",
+            "device": "Yoga7",
+            "sha256": "26c65ecff78733a1afe224cbaf33b3557af2c430069f55b61548d7e5eb10a5d2"
+        },
+        "Databases/cava.pdb": {
+            "at": "2026-10-04T16:33:46Z",
+            "device": "Yoga7",
+            "sha256": "eec63022494bf3d6fdd2ef14529b1ea3bf21419018ba1b93d429ddf06de95b7b"
+        },
+        "Databases/prova.pdb": {
+            "at": "2026-10-04T16:33:46Z",
+            "device": "Yoga7",
+            "sha256": "e07a2248c2c48d0e677b149b41b756129043066196431da084779e1ac6889911"
+        }
+    },
     "files": {
         "Books/Libro Pazzo.bin": {
             "device": "Yoga7",
@@ -36,35 +63,11 @@
             "sha256": "155ea424f100df73dc69a0c05c846df65cc4b4c0343e499dc955419b2e6caacb",
             "size": 73728
         },
-        "Databases/Le mie partite.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-10-02T19:26:46Z",
-            "sha256": "8b41e50e920c1317e4c5c6f2cc18eb84b3db7db9275039460247f41192b8bba0",
-            "size": 86016
-        },
-        "Databases/Prova (Samsung SM-N960F).pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T16:18:24Z",
-            "sha256": "ddbca1d1457de55b91f6a5774cea41f08b8e595b9f8e8b1faad0b01245b0e0b2",
-            "size": 73728
-        },
-        "Databases/aaaa.pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T16:22:23Z",
-            "sha256": "26c65ecff78733a1afe224cbaf33b3557af2c430069f55b61548d7e5eb10a5d2",
-            "size": 73728
-        },
         "Databases/allenamento.pdb": {
             "device": "Yoga7",
             "modified": "2026-10-02T21:12:33Z",
             "sha256": "ae789c02012315f36b4215eaedcbfc933672228225d62806bdbeca994d1510c2",
             "size": 86016
-        },
-        "Databases/cava.pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T15:07:15Z",
-            "sha256": "eec63022494bf3d6fdd2ef14529b1ea3bf21419018ba1b93d429ddf06de95b7b",
-            "size": 73728
         },
         "Databases/chess-com.pdb": {
             "device": "Yoga7",
@@ -77,12 +80,6 @@
             "modified": "2026-10-03T18:27:14Z",
             "sha256": "7eccc6a46349fcfcc736d3f70bc696293c39cbbf8f0a6f678849b9d4167ffccf",
             "size": 86016
-        },
-        "Databases/prova.pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T14:40:56Z",
-            "sha256": "e07a2248c2c48d0e677b149b41b756129043066196431da084779e1ac6889911",
-            "size": 73728
         },
         "Databases/tornei-elo-standard.pdb": {
             "device": "Intel5",
@@ -309,8 +306,8 @@
             "lineage": "0c9f5234-a1c2-4f0e-99c0-960aaf583bb6"
         }
     },
-    "pragma-chess-sync": 1,
-    "revision": 311,
-    "updatedAt": "2026-10-03T18:28:45Z",
+    "pragma-chess-sync": 2,
+    "revision": 312,
+    "updatedAt": "2026-10-04T16:33:47Z",
     "updatedBy": "Yoga7"
 }
