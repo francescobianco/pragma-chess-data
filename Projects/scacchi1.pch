@@ -1,9 +1,32 @@
 # Pragma Chess project
-pragma-chess: 1
+pragma-chess: 2
 database:
   path: /home/francesco/Scacchi/Pragma/Databases/lichess.pdb
-game:
-  ply: 0
+chapters:
+  current: 1
+  list:
+    - title: Chapter 1
+      game: 0
+      ply: 0
+      games:
+        - {}
+    - title: Chapter 2
+      game: 0
+      ply: 1
+      games:
+        - moves: e2e4
+          paragraphs:
+            - ply: 0
+              text: |
+
+                asdasd
+                asdasd
+                asdadasd
+
+                asdadas
+
+                aasdalkdòladòlakdalòd
+                asdlaòsdlk
 board:
   flipped: false
   coordinates: true
@@ -18,7 +41,7 @@ workspace:
     openingTree: true
     engine: true
     games: true
-  gamesHeight: 32
-  movesWidth: 27.55
-  engineHeight: 45.24
-  treeWidth: 24.69
+  gamesHeight: 29.26
+  movesWidth: 42.87
+  engineHeight: 36.01
+  treeWidth: 25.1
