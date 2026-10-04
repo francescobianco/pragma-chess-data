@@ -3,7 +3,7 @@ pragma-chess: 1
 database:
   path: /home/francesco/Scacchi/Pragma/Databases/lichess.pdb
 game:
-  moves: g1f3
+  id: 2
   ply: 0
 board:
   flipped: true
@@ -12,8 +12,6 @@ engine:
   id: bundled
   name: Stockfish 18
   analyzing: true
-training:
-  side: black
 workspace:
   panels:
     toolbar: true
