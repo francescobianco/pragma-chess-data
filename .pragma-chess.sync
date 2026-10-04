@@ -32,6 +32,12 @@
         }
     },
     "files": {
+        ".pragma-chess.conf": {
+            "device": "Yoga7",
+            "modified": "2026-10-04T20:34:54Z",
+            "sha256": "6b8d40d92c097af9d776d927a64a93415d96fbb3c8943c18d04bfeaa065555e2",
+            "size": 80
+        },
         "Books/Libro Pazzo.bin": {
             "device": "Yoga7",
             "modified": "2026-10-03T14:32:56Z",
@@ -76,8 +82,8 @@
         },
         "Databases/lichess.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-04T20:33:54Z",
-            "sha256": "94148beae8338bd0a5d1befbd5b909e746bdb3ba424accaf4c378d334c4d3859",
+            "modified": "2026-10-04T20:35:11Z",
+            "sha256": "c6f573e8e1d508614c17ed011bdd395e1e41f8393cddb99eefb1101b772d93fe",
             "size": 86016
         },
         "Databases/tornei-elo-standard.pdb": {
@@ -124,8 +130,8 @@
         },
         "Projects/scacchi1.pch": {
             "device": "Yoga7",
-            "modified": "2026-10-04T20:22:09Z",
-            "sha256": "6a8d5136e40a6a810004791a3bb2aec9b6cbdd0a68350e151851bc6bfdf43c67",
+            "modified": "2026-10-04T20:35:10Z",
+            "sha256": "5980a79b40e408f9b8ac75b675dbd3d348ecec8ddb2b2355f0c4b9431ada6117",
             "size": 449
         },
         "Projects/tornei-elo-standard.pch": {
@@ -312,7 +318,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 364,
-    "updatedAt": "2026-10-04T20:33:56Z",
+    "revision": 365,
+    "updatedAt": "2026-10-04T20:35:12Z",
     "updatedBy": "Yoga7"
 }
