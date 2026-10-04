@@ -1,25 +1,15 @@
 # Pragma Chess project
 pragma-chess: 1
 database:
-  path: /home/francesco/Scacchi/Pragma/Databases/lichess.pdb
+  path: /home/francesco/Scacchi/Pragma/Databases/allenamento.pdb
 game:
-  id: 2
   ply: 0
 board:
   flipped: true
   coordinates: true
 engine:
   id: bundled
-  name: Stockfish 18
-  analyzing: true
+  name: Stockfish 19
+  analyzing: false
 workspace:
-  panels:
-    toolbar: true
-    moves: true
-    openingTree: true
-    engine: true
-    games: true
-  gamesHeight: 32.19
-  movesWidth: 35.74
-  engineHeight: 44.35
-  treeWidth: 24.74
+  layout: AAAAD3ByYWdtYS1sYXlvdXQtNAAAAJcAAAD/AAAAAP0AAAABAAAAAwAAB4AAAADc/AEAAAAB+wAAABIAZwBhAG0AZQBzAEQAbwBjAGsBAAAAAAAAB4AAAACQAP///wAAB4AAAAMkAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAA2QAAAP8AAAAA/QAAAAEAAAABAAAEbQAAAxj8AgAAAAL8AAAAAAAAAiwAAABFAP///vwBAAAAAvsAAAASAG0AbwB2AGUAcwBEAG8AYwBrAQAAAAAAAAFuAAAARgD////7AAAAHgBvAHAAZQBuAGkAbgBnAFQAcgBlAGUARABvAGMAawEAAAFxAAAC/AAAAEYA////+wAAABQAZQBuAGcAaQBuAGUARABvAGMAawEAAAIvAAAA6QAAAJ8A///+AAAAAAAAAxgAAAAEAAAABAAAAAgAAAAI/AAAAAAAAAAfAAAA/wAAAAEAAAACAAAA3AAAAyAA/////wEAAAABAA==
