@@ -82,8 +82,8 @@
         },
         "Databases/lichess.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-04T22:20:44Z",
-            "sha256": "454bf0c86e19677f0ba54ae2269496c894455924fa1dcbfb43f6389a4c81edb4",
+            "modified": "2026-10-04T22:21:19Z",
+            "sha256": "84892d6fd228c89953194f9fd84a538fb75832fb971a054feac7a041f97ec03d",
             "size": 86016
         },
         "Databases/tornei-elo-standard.pdb": {
@@ -318,7 +318,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 402,
-    "updatedAt": "2026-10-04T22:20:46Z",
+    "revision": 403,
+    "updatedAt": "2026-10-04T22:21:21Z",
     "updatedBy": "Yoga7"
 }
