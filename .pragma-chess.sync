@@ -141,10 +141,10 @@
             "size": 1041
         },
         "README.md": {
-            "device": "Yoga7",
-            "modified": "2026-09-17T20:05:16Z",
-            "sha256": "77419e130b3b871105de9e99736013a11ae2a50a0fefc22646bda58a9504f88a",
-            "size": 19
+            "device": "GitHub",
+            "modified": "2026-10-04T20:40:18Z",
+            "sha256": "7758c7fbe3625fd7e1faa94f630c980762b541727c83511746a5d841f5dd8be0",
+            "size": 2994
         }
     },
     "merged": {
@@ -318,7 +318,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 365,
-    "updatedAt": "2026-10-04T20:35:12Z",
-    "updatedBy": "Yoga7"
+    "revision": 366,
+    "updatedAt": "2026-10-04T20:40:18Z",
+    "updatedBy": "GitHub"
 }
