@@ -3,7 +3,8 @@ pragma-chess: 1
 database:
   path: /home/francesco/Scacchi/Pragma/Databases/allenamento.pdb
 game:
-  ply: 0
+  id: 1
+  ply: 2
 board:
   flipped: false
   coordinates: true
