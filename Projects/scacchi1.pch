@@ -3,7 +3,7 @@ pragma-chess: 1
 database:
   path: /home/francesco/Scacchi/Pragma/Databases/allenamento.pdb
 game:
-  moves: e2e4 e7e5 d1h5 b8c6 f1c4 g8f6 h5f7
+  id: 2
   ply: 7
 board:
   flipped: false
