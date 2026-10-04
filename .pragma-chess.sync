@@ -57,9 +57,9 @@
             "size": 128928
         },
         "Books/Reportorio.bin": {
-            "device": "Intel5",
-            "modified": "2026-09-29T15:24:44Z",
-            "sha256": "66350fc0c8a9bd53f871537755b1694c1bf61726af53a3656527df969dd08d7f",
+            "device": "Yoga7",
+            "modified": "2026-10-04T18:34:13Z",
+            "sha256": "e002288655157d3b1096cb10ecb4332d5c98b4b04e3adb29683e9a39fe53929b",
             "size": 128928
         },
         "Databases/allenamento.pdb": {
@@ -312,7 +312,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 348,
-    "updatedAt": "2026-10-04T18:17:08Z",
+    "revision": 349,
+    "updatedAt": "2026-10-04T18:34:52Z",
     "updatedBy": "Yoga7"
 }
