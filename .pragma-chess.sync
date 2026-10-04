@@ -124,9 +124,9 @@
         },
         "Projects/scacchi1.pch": {
             "device": "Yoga7",
-            "modified": "2026-10-04T18:03:00Z",
-            "sha256": "5e29f6a57b5e4dd5fab71f963da8c9c5cd28b6a2540546d6913e866a95bd92d1",
-            "size": 461
+            "modified": "2026-10-04T18:16:51Z",
+            "sha256": "22c5e15bf60d31014930f4323958b4193385c691c79c1bf645de81d9f959abff",
+            "size": 497
         },
         "Projects/tornei-elo-standard.pch": {
             "device": "Intel5",
@@ -312,7 +312,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 346,
-    "updatedAt": "2026-10-04T18:15:13Z",
+    "revision": 347,
+    "updatedAt": "2026-10-04T18:16:52Z",
     "updatedBy": "Yoga7"
 }

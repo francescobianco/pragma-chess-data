@@ -3,8 +3,8 @@ pragma-chess: 1
 database:
   path: /home/francesco/Scacchi/Pragma/Databases/allenamento.pdb
 game:
-  id: 1
-  ply: 2
+  moves: e2e4 e7e5 d1h5 b8c6 f1c4 g8f6 h5f7
+  ply: 7
 board:
   flipped: false
   coordinates: true
@@ -21,5 +21,5 @@ workspace:
     games: true
   gamesHeight: 32
   movesWidth: 32.53
-  engineHeight: 33.53
-  treeWidth: 22.18
+  engineHeight: 34.11
+  treeWidth: 22.23
