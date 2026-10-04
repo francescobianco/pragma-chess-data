@@ -11,12 +11,12 @@ chapters:
       games:
         - {}
     - title: Chapter 2
-      game: 0
+      game: 1
       ply: 1
       games:
         - moves: e2e4 e7e5
           paragraphs:
-            - ply: 1
+            - ply: 2
               text: |
                 Cdasdadasd asd ads ad  ads a d ad asd a sd as da ds as da d a ds ads asd as da sd ad as d asd a fsd fs df dsfsd f sdf sd f sdf sd f sdf sd fsd f sd fsd f sd fsd f ds fs df sd f sd f sd fsd f sd f sdf sd f sdfsdfsdf sd fs df sd fsd f sd f sd fs d fsd f sd f sd f sdf sd f sdf 
                 klò lkòlk lkòlk lkòlk lkòlk lòkòlkòl òlkòn       lkòlk
@@ -26,6 +26,9 @@ chapters:
         - date: 2026.10.05
           result: "*"
           moves: e2e4
+        - date: 2026.10.05
+          result: "*"
+          moves: e2e4 e7e5
         - date: 2026.10.05
           result: "*"
           moves: e2e4 e7e5
