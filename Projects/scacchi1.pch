@@ -10,7 +10,7 @@ board:
 engine:
   id: e1125d25-e7bc-4a13-b29a-c6956ba9ba1a
   name: Stockfish 16
-  analyzing: true
+  analyzing: false
 workspace:
   panels:
     toolbar: true
@@ -20,5 +20,5 @@ workspace:
     games: true
   gamesHeight: 32
   movesWidth: 27.55
-  engineHeight: 40.26
-  treeWidth: 24.27
+  engineHeight: 45.24
+  treeWidth: 24.37
