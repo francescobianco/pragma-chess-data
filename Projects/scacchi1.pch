@@ -8,8 +8,8 @@ board:
   flipped: false
   coordinates: true
 engine:
-  id: bundled
-  name: Stockfish 18
+  id: e1125d25-e7bc-4a13-b29a-c6956ba9ba1a
+  name: Stockfish 16
   analyzing: false
 workspace:
   panels:
