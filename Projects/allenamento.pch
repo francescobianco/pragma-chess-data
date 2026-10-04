@@ -20,5 +20,5 @@ workspace:
     games: true
   gamesHeight: 32
   movesWidth: 32.53
-  engineHeight: 26.06
-  treeWidth: 22.03
+  engineHeight: 26.94
+  treeWidth: 22.08

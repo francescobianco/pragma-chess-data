@@ -106,8 +106,8 @@
         },
         "Projects/allenamento.pch": {
             "device": "Yoga7",
-            "modified": "2026-10-04T17:47:47Z",
-            "sha256": "9e33d26e8efb50668b5bd2aa479d1a6a6eee9abf945caa834bd5a97a00d04462",
+            "modified": "2026-10-04T17:48:12Z",
+            "sha256": "1f0fa29fd44134260f2f50e68a1d49804acb1f4e32f9509ce8fd473db98e5731",
             "size": 423
         },
         "Projects/chess-com.pch": {
@@ -306,7 +306,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 341,
-    "updatedAt": "2026-10-04T17:47:51Z",
+    "revision": 342,
+    "updatedAt": "2026-10-04T17:52:59Z",
     "updatedBy": "Yoga7"
 }
