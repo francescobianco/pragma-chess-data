@@ -5,7 +5,7 @@ database:
 game:
   ply: 0
 board:
-  flipped: true
+  flipped: false
   coordinates: true
 engine:
   id: bundled
@@ -20,5 +20,5 @@ workspace:
     games: true
   gamesHeight: 32
   movesWidth: 32.53
-  engineHeight: 27.67
-  treeWidth: 22.13
+  engineHeight: 33.53
+  treeWidth: 22.18
