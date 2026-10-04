@@ -3,7 +3,7 @@ pragma-chess: 2
 database:
   path: /home/francesco/Scacchi/Pragma/Databases/lichess.pdb
 chapters:
-  current: 1
+  current: 0
   list:
     - title: Chapter 1
       game: 0
@@ -12,7 +12,7 @@ chapters:
         - {}
     - title: Chapter 2
       game: 1
-      ply: 1
+      ply: 3
       games:
         - moves: e2e4 e7e5
           paragraphs:
@@ -32,13 +32,18 @@ chapters:
         - date: 2026.10.05
           result: "*"
           moves: e2e4 e7e5
+    - title: Capitolo 3
+      game: 0
+      ply: 0
+      games:
+        - {}
 board:
   flipped: false
   coordinates: true
 engine:
   id: e1125d25-e7bc-4a13-b29a-c6956ba9ba1a
   name: Stockfish 16
-  analyzing: true
+  analyzing: false
 workspace:
   panels:
     toolbar: true
@@ -48,5 +53,5 @@ workspace:
     games: true
   gamesHeight: 29.26
   movesWidth: 42.87
-  engineHeight: 33.05
-  treeWidth: 26.72
+  engineHeight: 34.18
+  treeWidth: 26.83
