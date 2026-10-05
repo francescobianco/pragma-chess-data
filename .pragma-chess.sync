@@ -127,9 +127,9 @@
         },
         "Projects/lichess.pch": {
             "device": "Yoga7",
-            "modified": "2026-09-17T21:52:44Z",
-            "sha256": "1480c05ca72d5fcd32ac936884d6ca9cb619ed145272253e9f36664815a81b90",
-            "size": 781
+            "modified": "2026-10-05T20:07:27Z",
+            "sha256": "746b323e9741006f433c41fe45425ac551b58b0b52c7fe1f8b06e3458064e62e",
+            "size": 1102
         },
         "Projects/scacchi1.pch": {
             "device": "Yoga7",
@@ -342,7 +342,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 490,
-    "updatedAt": "2026-10-05T20:06:39Z",
+    "revision": 491,
+    "updatedAt": "2026-10-05T20:11:37Z",
     "updatedBy": "Yoga7"
 }

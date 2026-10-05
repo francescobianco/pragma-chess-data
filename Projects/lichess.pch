@@ -1,15 +1,45 @@
 # Pragma Chess project
-pragma-chess: 1
+pragma-chess: 2
 database:
-  path: /home/francesco/Scacchi/Pragma/Databases/Classic Games.pdb
-game:
-  moves: e2e4 e7e5 f1c4 b8c6 d1f3 b7b6 b1c3
-  ply: 7
+  path: /home/francesco/Scacchi/Pragma/Databases/lichess.pdb
+chapters:
+  current: 0
+  list:
+    - title: Capitolo 1
+      game: 0
+      ply: 6
+      games:
+        - date: 2026.10.05
+          result: "*"
+          moves: e2e4 e7e5 a2a3 d8f6 b1c3 f8c5 b2b4
+          paragraphs:
+            - ply: 0
+              kind: title
+              text: |
+                Titolo
+            - ply: 0
+              kind: subtitle
+              text: |
+                Prova di sottotitolo
+            - ply: 0
+              text: |
+                gd gfdghfdhgdhg gfdhgd gd gfdhgfd gfdgfdgfd  gfd gfd hgfd gfd hgfdhgf gfd gfhgdf hggfdghfdg ghfdhg dghd ghgfd hgf dghfdhgdh gdhgdhgdgd gd gd gfd gfd gfdgf 
+                jf fhgf hgfhgfhgfjhgfgfhfhfhgfhgfhgfghfhgfhf
 board:
   flipped: false
   coordinates: true
 engine:
-  name: stockfish
+  id: bundled
+  name: Stockfish 18
   analyzing: true
 workspace:
-  layout: AAAAD3ByYWdtYS1sYXlvdXQtMgAAAJcAAAD/AAAAAP0AAAABAAAAAwAAB3oAAADc/AEAAAAB+wAAABIAZwBhAG0AZQBzAEQAbwBjAGsBAAAAAAAAB3oAAABGAP///wAAB3oAAAMuAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAwgAAAP8AAAAA/QAAAAEAAAABAAAEigAAAy78AgAAAAP7AAAAEgBtAG8AdgBlAHMARABvAGMAawEAAAAAAAABjgAAAFoA////+wAAAB4AbwBwAGUAbgBpAG4AZwBUAHIAZQBlAEQAbwBjAGsAAAAAAP////8AAAA4AP////sAAAAUAGUAbgBnAGkAbgBlAEQAbwBjAGsBAAABlAAAAZoAAAB9AP///wAAAAAAAAMuAAAABAAAAAQAAAAIAAAACPwAAAAA
+  panels:
+    toolbar: true
+    moves: true
+    openingTree: true
+    engine: true
+    games: true
+  gamesHeight: 33.17
+  movesWidth: 33.91
+  engineHeight: 44.56
+  treeWidth: 19.42
