@@ -27,6 +27,9 @@ chapters:
               text: |
                 Ciao questo testo è un testo per studiare
                 asd
+        - date: 2026.10.05
+          result: "*"
+          moves: e2e4 d7d5 e4d5 d8d5
 board:
   flipped: false
   coordinates: true
@@ -40,8 +43,8 @@ workspace:
     moves: true
     openingTree: true
     engine: true
-    games: true
+    games: false
   gamesHeight: 24.42
-  movesWidth: 30.54
-  engineHeight: 44.05
+  movesWidth: 29.24
+  engineHeight: 30.4
   treeWidth: 23.07
