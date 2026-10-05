@@ -67,8 +67,8 @@
         },
         "Databases/aaaa.pdb": {
             "device": "Intel5",
-            "modified": "2026-10-05T10:49:41Z",
-            "sha256": "c6c6f2e11233f561a2119fc7029d59a7bc3db706151e57227daf516c7845261e",
+            "modified": "2026-10-05T12:34:17Z",
+            "sha256": "12640b1e22f145a89a921217445d0d5edf1dd2828e6379dfbadf99498afb0054",
             "size": 86016
         },
         "Databases/allenamento.pdb": {
@@ -139,9 +139,9 @@
         },
         "Projects/tornei-elo-standard.pch": {
             "device": "Intel5",
-            "modified": "2026-10-05T10:48:55Z",
-            "sha256": "e6f04b4acc85fdf60024c2ce4e0224135391a34ae8bb8ee92f1e754f409fd5ba",
-            "size": 1127
+            "modified": "2026-10-05T11:06:56Z",
+            "sha256": "f5cda939d597b12a913c731aaca045aa5b52709bf72503b6f93e217837304304",
+            "size": 1818
         },
         "README.md": {
             "device": "GitHub",
@@ -328,7 +328,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 420,
-    "updatedAt": "2026-10-05T10:52:36Z",
+    "revision": 421,
+    "updatedAt": "2026-10-05T13:27:42Z",
     "updatedBy": "Intel5"
 }

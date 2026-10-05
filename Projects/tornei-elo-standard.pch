@@ -14,22 +14,40 @@ chapters:
           result: "*"
           moves: e2e4 e7e5 d2d4 d7d5 g1f3 b8c6 f3e5 c6e5 f1a6 b7a6
     - title: Capitolo 2
-      game: 0
-      ply: 5
+      game: 3
+      ply: 28
       games:
         - uid: bff0c616-1ee7-5e89-9ec3-d32dbc886511
           white: asdasd
           black: asdasdasd
           result: "*"
           moves: e2e4 e7e5 g1f3 b8c6 f1d3
+          annotations: 5:!!
           paragraphs:
             - ply: 0
               text: |
                 Ciao questo testo è un testo per studiare
-                asd
         - date: 2026.10.05
           result: "*"
           moves: e2e4 d7d5 e4d5 d8d5
+        - white: francescobianco
+          black: Joso69
+          whiteElo: 795
+          blackElo: 767
+          event: Partita amichevole su lichess.org
+          site: https://lichess.org/6Q2Rufv4
+          date: 2026.10.05
+          result: "*"
+          moves: e2e4
+        - white: francescobianco
+          black: dev14prot
+          whiteElo: 795
+          blackElo: 965
+          event: Partita amichevole su lichess.org
+          site: https://lichess.org/5ChZ7Itr
+          date: 2026.10.05
+          result: "*"
+          moves: e2e4 e7e5 f2f4 e5f4 g1f3 g8f6 b1c3 d7d5 e4d5 f6d5 d1e2 c8e6 d2d4 f8b4 c1d2 b8c6 c3d5 b4d2 e2d2 e6d5 d2f4 e8g8 f1d3 d8e7 f3e5 e7b4 c2c3 b4b2
 board:
   flipped: false
   coordinates: true
