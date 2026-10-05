@@ -1,15 +1,33 @@
 # Pragma Chess project
-pragma-chess: 1
+pragma-chess: 2
 database:
-  path: /home/francesco/Chess/Pragma/Databases/tornei-elo-standard.pdb
-game:
-  moves: e2e4 c7c5
-  ply: 0
+  path: /home/francesco/Chess/Pragma/Databases/aaaa.pdb
+chapters:
+  current: 0
+  list:
+    - title: Chapter 1
+      game: 0
+      ply: 6
+      games:
+        - uid: e116fe4e-2ed3-5169-88bb-039ecbb7d2fa
+          date: 2026.09.29
+          result: "*"
+          moves: e2e4 e7e5 d2d4 d7d5 g1f3 b8c6
 board:
-  flipped: true
-  coordinates: false
+  flipped: false
+  coordinates: true
 engine:
-  name: stockfish
+  id: bundled
+  name: Stockfish 18
   analyzing: false
 workspace:
-  layout: AAAAD3ByYWdtYS1sYXlvdXQtNAAAAS8AAAD/AAAAAP0AAAACAAAAAQAAA0kAAAH6/AIAAAAD+wAAABIAbQBvAHYAZQBzAEQAbwBjAGsBAAAARwAAAJgAAAAAAAAAAPsAAAAeAG8AcABlAG4AaQBuAGcAVAByAGUAZQBEAG8AYwBrAQAAAOUAAABbAAAAAAAAAAD7AAAAFABlAG4AZwBpAG4AZQBEAG8AYwBrAQAAAUYAAAD7AAAAAAAAAAAAAAADAAAHgAAAAMf8AQAAAAH7AAAAEgBnAGEAbQBlAHMARABvAGMAawEAAAAAAAAHgAAAAJAA////AAAHgAAAAswAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAAAAADZAAAA/wAAAAD9AAAAAQAAAAEAAAT4AAACwPwCAAAAAvwAAAAAAAABxQAAAEUA///+/AEAAAAC+wAAABIAbQBvAHYAZQBzAEQAbwBjAGsBAAAAAAAAAe4AAABGAP////sAAAAeAG8AcABlAG4AaQBuAGcAVAByAGUAZQBEAG8AYwBrAQAAAfEAAAMHAAAARgD////7AAAAFABlAG4AZwBpAG4AZQBEAG8AYwBrAQAAAcgAAAD4AAAAmwD///4AAAAAAAACwAAAAAQAAAAEAAAACAAAAAj8AAAAAAAAAB8AAAD/AAAAAQAAAAIAAADcAAADIAD/////AQAAAAEA
+  panels:
+    toolbar: true
+    moves: true
+    openingTree: true
+    engine: true
+    games: true
+  gamesHeight: 32.04
+  movesWidth: 30.4
+  engineHeight: 35.49
+  treeWidth: 22.29

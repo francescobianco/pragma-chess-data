@@ -18,10 +18,10 @@
     },
     "files": {
         ".pragma-chess.conf": {
-            "device": "Yoga7",
-            "modified": "2026-10-04T20:34:54Z",
-            "sha256": "6b8d40d92c097af9d776d927a64a93415d96fbb3c8943c18d04bfeaa065555e2",
-            "size": 80
+            "device": "Intel5",
+            "modified": "2026-10-05T09:55:15Z",
+            "sha256": "50eba2d0ce67151951cbd01f9f4e2576b0a4c042d550cee68135fba4d3f0e47a",
+            "size": 106
         },
         "Books/Libro Pazzo.bin": {
             "device": "Yoga7",
@@ -139,9 +139,9 @@
         },
         "Projects/tornei-elo-standard.pch": {
             "device": "Intel5",
-            "modified": "2026-09-18T07:26:16Z",
-            "sha256": "6ed588849860f9719724ba7ccde8060ec15f6774d650364862a20d0b7f6f2a30",
-            "size": 1041
+            "modified": "2026-10-05T09:54:56Z",
+            "sha256": "eda9901a2442c41e23c56d713dbb345f23457c271f5287f50218a55b6070fed7",
+            "size": 644
         },
         "README.md": {
             "device": "GitHub",
@@ -328,7 +328,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 413,
-    "updatedAt": "2026-10-05T09:40:27Z",
+    "revision": 414,
+    "updatedAt": "2026-10-05T09:56:52Z",
     "updatedBy": "Intel5"
 }
