@@ -3,7 +3,7 @@ pragma-chess: 2
 database:
   path: /home/francesco/Chess/Pragma/Databases/aaaa.pdb
 chapters:
-  current: 0
+  current: 1
   list:
     - title: Chapter 1
       game: 0
@@ -13,6 +13,11 @@ chapters:
           date: 2026.09.29
           result: "*"
           moves: e2e4 e7e5 d2d4 d7d5 g1f3 b8c6 f3e5 c6e5 f1a6 b7a6
+    - title: Capitolo 2
+      game: 0
+      ply: 0
+      games:
+        - {}
 board:
   flipped: false
   coordinates: true
@@ -29,5 +34,5 @@ workspace:
     games: true
   gamesHeight: 24.42
   movesWidth: 30.54
-  engineHeight: 43.75
-  treeWidth: 22.96
+  engineHeight: 43.9
+  treeWidth: 23.02
