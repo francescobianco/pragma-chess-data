@@ -19,9 +19,9 @@
     "files": {
         ".pragma-chess.conf": {
             "device": "Yoga7",
-            "modified": "2026-10-05T15:07:25Z",
-            "sha256": "50eba2d0ce67151951cbd01f9f4e2576b0a4c042d550cee68135fba4d3f0e47a",
-            "size": 106
+            "modified": "2026-10-05T23:38:16Z",
+            "sha256": "f3feb140dc75e521fbb153f1121310032183ff0d81a7a3a538226df3c9bff4c5",
+            "size": 107
         },
         "Books/Libro Pazzo.bin": {
             "device": "Yoga7",
@@ -342,7 +342,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 538,
-    "updatedAt": "2026-10-05T23:36:02Z",
+    "revision": 539,
+    "updatedAt": "2026-10-05T23:41:00Z",
     "updatedBy": "Yoga7"
 }
