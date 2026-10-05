@@ -1,24 +1,9 @@
 {
     "deleted": {
-        "Databases/Classic Games.pdb": {
-            "at": "2026-10-04T17:38:50Z",
-            "device": "Yoga7",
-            "sha256": "e0411218e92f5d64a6425cf9e6548464f72f2dc3eb49a80c9afb3e95ac66190d"
-        },
-        "Databases/Le mie partite.pdb": {
-            "at": "2026-10-04T16:33:46Z",
-            "device": "Yoga7",
-            "sha256": "8b41e50e920c1317e4c5c6f2cc18eb84b3db7db9275039460247f41192b8bba0"
-        },
         "Databases/Prova (Samsung SM-N960F).pdb": {
             "at": "2026-10-04T16:33:46Z",
             "device": "Yoga7",
             "sha256": "ddbca1d1457de55b91f6a5774cea41f08b8e595b9f8e8b1faad0b01245b0e0b2"
-        },
-        "Databases/aaaa.pdb": {
-            "at": "2026-10-04T16:33:46Z",
-            "device": "Yoga7",
-            "sha256": "26c65ecff78733a1afe224cbaf33b3557af2c430069f55b61548d7e5eb10a5d2"
         },
         "Databases/cava.pdb": {
             "at": "2026-10-04T16:33:46Z",
@@ -50,10 +35,16 @@
             "sha256": "91132feca23d0ca0f3415956c402c3a9e9529d93fbdf368b13e72bf9071d1201",
             "size": 1331200
         },
-        "Books/Opening Names/Italian.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-10-03T13:03:57Z",
+        "Books/Opening Names/Italian (conflict, Yoga7, 2026-10-03 15.03).pdb": {
+            "device": "Intel5",
+            "modified": "2026-10-05T09:40:24Z",
             "sha256": "90ca1de1099cb4daaade674af7d73a7b4e05051bd5999c7bc804f3ffa835c26b",
+            "size": 1433600
+        },
+        "Books/Opening Names/Italian.pdb": {
+            "device": "Intel5",
+            "modified": "2026-10-05T09:40:19Z",
+            "sha256": "1fa5e50c7d291251aa15b8b57330b1269854850b6b60a59df943a79efac02ce9",
             "size": 1433600
         },
         "Books/Pragma Openings.bin": {
@@ -67,6 +58,24 @@
             "modified": "2026-10-04T18:34:13Z",
             "sha256": "e002288655157d3b1096cb10ecb4332d5c98b4b04e3adb29683e9a39fe53929b",
             "size": 128928
+        },
+        "Databases/Classic Games.pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T14:20:28Z",
+            "sha256": "e0a05cac6ace38411e0d3db96a1a921d085ad7cc56360d6036e308d1bc881bfa",
+            "size": 73728
+        },
+        "Databases/Le mie partite.pdb": {
+            "device": "Intel5",
+            "modified": "2026-09-29T16:16:00Z",
+            "sha256": "3db4c61fec1da549af961eaa5347bf7ef25834009f5fa51d0497dc6237d7df1f",
+            "size": 73728
+        },
+        "Databases/aaaa.pdb": {
+            "device": "Intel5",
+            "modified": "2026-10-05T09:40:19Z",
+            "sha256": "5a61379ad43dcc16fce04912ca1138dd0449102c3436277b54f06a84c090cbfa",
+            "size": 86016
         },
         "Databases/allenamento.pdb": {
             "device": "Yoga7",
@@ -318,7 +327,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 411,
-    "updatedAt": "2026-10-04T22:42:45Z",
-    "updatedBy": "Yoga7"
+    "revision": 412,
+    "updatedAt": "2026-10-05T09:40:25Z",
+    "updatedBy": "Intel5"
 }
