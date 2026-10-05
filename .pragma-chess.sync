@@ -19,9 +19,9 @@
     "files": {
         ".pragma-chess.conf": {
             "device": "Intel5",
-            "modified": "2026-10-05T09:55:15Z",
-            "sha256": "50eba2d0ce67151951cbd01f9f4e2576b0a4c042d550cee68135fba4d3f0e47a",
-            "size": 106
+            "modified": "2026-10-05T13:37:58Z",
+            "sha256": "f3feb140dc75e521fbb153f1121310032183ff0d81a7a3a538226df3c9bff4c5",
+            "size": 107
         },
         "Books/Libro Pazzo.bin": {
             "device": "Yoga7",
@@ -37,8 +37,8 @@
         },
         "Books/Opening Names/Italian.pdb": {
             "device": "Intel5",
-            "modified": "2026-10-05T09:40:19Z",
-            "sha256": "1fa5e50c7d291251aa15b8b57330b1269854850b6b60a59df943a79efac02ce9",
+            "modified": "2026-10-05T13:41:31Z",
+            "sha256": "7101f47a93fb8072dedd94f99d0c8122d001968ff9374f8d1fbb97efe468bc5e",
             "size": 1433600
         },
         "Books/Pragma Openings.bin": {
@@ -67,8 +67,8 @@
         },
         "Databases/aaaa.pdb": {
             "device": "Intel5",
-            "modified": "2026-10-05T12:34:17Z",
-            "sha256": "12640b1e22f145a89a921217445d0d5edf1dd2828e6379dfbadf99498afb0054",
+            "modified": "2026-10-05T13:41:31Z",
+            "sha256": "33bfc3610926054b8c834ed0f368ff1b9c994cd0b23c9fc91ecee627665c5814",
             "size": 86016
         },
         "Databases/allenamento.pdb": {
@@ -328,7 +328,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 421,
-    "updatedAt": "2026-10-05T13:27:42Z",
+    "revision": 422,
+    "updatedAt": "2026-10-05T13:41:36Z",
     "updatedBy": "Intel5"
 }
