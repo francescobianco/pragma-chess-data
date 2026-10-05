@@ -7,9 +7,9 @@ chapters:
   list:
     - title: Chapter 1
       game: 0
-      ply: 0
+      ply: 3
       games:
-        - {}
+        - moves: e2e4 e7e5 f1b5
     - title: Chapter 2
       game: 1
       ply: 3
@@ -43,7 +43,7 @@ board:
 engine:
   id: e1125d25-e7bc-4a13-b29a-c6956ba9ba1a
   name: Stockfish 16
-  analyzing: false
+  analyzing: true
 workspace:
   panels:
     toolbar: true
@@ -51,7 +51,7 @@ workspace:
     openingTree: true
     engine: true
     games: true
-  gamesHeight: 29.26
-  movesWidth: 42.87
-  engineHeight: 34.18
-  treeWidth: 26.83
+  gamesHeight: 33.17
+  movesWidth: 43.26
+  engineHeight: 35.77
+  treeWidth: 26.88
