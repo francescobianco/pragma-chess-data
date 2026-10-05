@@ -83,10 +83,16 @@
             "sha256": "039ff215dc9d2faea16ead6a7d08db4a01778e33b633874fa3a89de67a762c5f",
             "size": 3284992
         },
+        "Databases/lichess (conflict, Yoga7, 2026-10-05 20.28).pdb": {
+            "device": "Yoga7",
+            "modified": "2026-10-05T18:28:50Z",
+            "sha256": "e9ba38a0233cd0056bfb72b736f4c6624c409159b3a3856a604930f17d0c0f39",
+            "size": 155648
+        },
         "Databases/lichess.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-05T18:28:43Z",
-            "sha256": "e9ba38a0233cd0056bfb72b736f4c6624c409159b3a3856a604930f17d0c0f39",
+            "modified": "2026-10-05T18:28:48Z",
+            "sha256": "45c26c9bb52fe0b50cdc3081e552e1aa1cf76709a56ae905fbd5a496d9fa8927",
             "size": 155648
         },
         "Databases/tornei-elo-standard.pdb": {
@@ -335,7 +341,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 440,
-    "updatedAt": "2026-10-05T18:28:45Z",
+    "revision": 441,
+    "updatedAt": "2026-10-05T18:28:50Z",
     "updatedBy": "Yoga7"
 }
