@@ -7,7 +7,7 @@ chapters:
   list:
     - title: Capitolo 1
       game: 3
-      ply: 17
+      ply: 22
       games:
         - date: 2026.10.05
           result: "*"
@@ -39,7 +39,7 @@ chapters:
           event: Allenamento
           date: 2026.10.05
           result: "*"
-          moves: d2d4 d7d5 g1f3 g8f6 b1c3 e7e6 c1g5 f8b4 a2a3 b4c3 b2c3 c7c5 d4c5 d8c7 d1d4 b8c6 g5f6
+          moves: d2d4 d7d5 g1f3 g8f6 b1c3 e7e6 c1g5 f8b4 a2a3 b4c3 b2c3 c7c5 d4c5 d8c7 d1d4 b8c6 g5f6 c6d4 f6d4 f7f6 e2e4 e6e5 d4e5 f6e5
 board:
   flipped: false
   coordinates: true
@@ -59,4 +59,4 @@ workspace:
   gamesHeight: 33.17
   movesWidth: 33.91
   engineHeight: 45.75
-  treeWidth: 19.52
+  treeWidth: 19.62
