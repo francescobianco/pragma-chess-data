@@ -15,9 +15,18 @@ chapters:
           moves: e2e4 e7e5 d2d4 d7d5 g1f3 b8c6 f3e5 c6e5 f1a6 b7a6
     - title: Capitolo 2
       game: 0
-      ply: 0
+      ply: 5
       games:
-        - {}
+        - uid: bff0c616-1ee7-5e89-9ec3-d32dbc886511
+          white: asdasd
+          black: asdasdasd
+          result: "*"
+          moves: e2e4 e7e5 g1f3 b8c6 f1d3
+          paragraphs:
+            - ply: 0
+              text: |
+                Ciao questo testo è un testo per studiare
+                asd
 board:
   flipped: false
   coordinates: true
@@ -34,5 +43,5 @@ workspace:
     games: true
   gamesHeight: 24.42
   movesWidth: 30.54
-  engineHeight: 43.9
-  treeWidth: 23.02
+  engineHeight: 44.05
+  treeWidth: 23.07
