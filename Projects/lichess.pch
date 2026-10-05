@@ -6,8 +6,8 @@ chapters:
   current: 0
   list:
     - title: Capitolo 1
-      game: 0
-      ply: 6
+      game: 3
+      ply: 17
       games:
         - date: 2026.10.05
           result: "*"
@@ -25,6 +25,21 @@ chapters:
               text: |
                 gd gfdghfdhgdhg gfdhgd gd gfdhgfd gfdgfdgfd  gfd gfd hgfd gfd hgfdhgf gfd gfhgdf hggfdghfdg ghfdhg dghd ghgfd hgf dghfdhgdh gdhgdhgdgd gd gd gfd gfd gfdgf 
                 jf fhgf hgfhgfhgfjhgfgfhfhfhgfhgfhgfghfhgfhf
+        - date: 2026.10.05
+          result: "*"
+          moves: e2e4 d7d5 e4d5 d8d5 b1c3 c8f5 b2b3
+        - white: Io
+          black: Stockfish 16
+          event: Allenamento
+          date: 2026.10.05
+          result: "*"
+          moves: e2e4 e7e5 g1f3 b8c6 f1c4 g8f6 b1c3 f6e4 c3e4 d7d5 c4b3
+        - white: Io
+          black: Stockfish 16
+          event: Allenamento
+          date: 2026.10.05
+          result: "*"
+          moves: d2d4 d7d5 g1f3 g8f6 b1c3 e7e6 c1g5 f8b4 a2a3 b4c3 b2c3 c7c5 d4c5 d8c7 d1d4 b8c6 g5f6
 board:
   flipped: false
   coordinates: true
@@ -32,6 +47,8 @@ engine:
   id: bundled
   name: Stockfish 18
   analyzing: true
+training:
+  side: white
 workspace:
   panels:
     toolbar: true
@@ -41,5 +58,5 @@ workspace:
     games: true
   gamesHeight: 33.17
   movesWidth: 33.91
-  engineHeight: 44.56
-  treeWidth: 19.42
+  engineHeight: 45.75
+  treeWidth: 19.52
