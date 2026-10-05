@@ -83,16 +83,10 @@
             "sha256": "039ff215dc9d2faea16ead6a7d08db4a01778e33b633874fa3a89de67a762c5f",
             "size": 3284992
         },
-        "Databases/lichess (conflict, Yoga7, 2026-10-05 20.28).pdb": {
-            "device": "Yoga7",
-            "modified": "2026-10-05T18:28:50Z",
-            "sha256": "e9ba38a0233cd0056bfb72b736f4c6624c409159b3a3856a604930f17d0c0f39",
-            "size": 155648
-        },
         "Databases/lichess.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-05T18:28:48Z",
-            "sha256": "45c26c9bb52fe0b50cdc3081e552e1aa1cf76709a56ae905fbd5a496d9fa8927",
+            "modified": "2026-10-05T18:28:52Z",
+            "sha256": "25912936ae1c7ad8a55cfacdafa51ca922484716c565f6fda2ad20f6961587f0",
             "size": 155648
         },
         "Databases/tornei-elo-standard.pdb": {
@@ -325,6 +319,13 @@
             "intoPath": "Databases/chess-com.pdb",
             "lineage": "0f69a9e9-7bf8-40e8-aa9d-841e4edb119a"
         },
+        "Databases/lichess (conflict, Yoga7, 2026-10-05 20.28).pdb": {
+            "at": "2026-10-05T18:28:50Z",
+            "device": "Yoga7",
+            "into": "3e424d29-cc0e-44bb-ab8d-c8a57c154962",
+            "intoPath": "Databases/lichess.pdb",
+            "lineage": "3e424d29-cc0e-44bb-ab8d-c8a57c154962"
+        },
         "Databases/prova (Samsung SM-N960F).pdb": {
             "at": "2026-09-29T15:07:15Z",
             "device": "Intel5",
@@ -341,7 +342,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 441,
-    "updatedAt": "2026-10-05T18:28:50Z",
+    "revision": 442,
+    "updatedAt": "2026-10-05T18:28:52Z",
     "updatedBy": "Yoga7"
 }
