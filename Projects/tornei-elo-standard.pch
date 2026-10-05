@@ -7,12 +7,12 @@ chapters:
   list:
     - title: Chapter 1
       game: 0
-      ply: 6
+      ply: 10
       games:
         - uid: e116fe4e-2ed3-5169-88bb-039ecbb7d2fa
           date: 2026.09.29
           result: "*"
-          moves: e2e4 e7e5 d2d4 d7d5 g1f3 b8c6
+          moves: e2e4 e7e5 d2d4 d7d5 g1f3 b8c6 f3e5 c6e5 f1a6 b7a6
 board:
   flipped: false
   coordinates: true
@@ -27,7 +27,7 @@ workspace:
     openingTree: true
     engine: true
     games: true
-  gamesHeight: 32.04
-  movesWidth: 30.4
-  engineHeight: 35.49
-  treeWidth: 22.29
+  gamesHeight: 24.42
+  movesWidth: 30.54
+  engineHeight: 37.8
+  treeWidth: 22.39
