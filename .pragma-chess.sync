@@ -35,12 +35,6 @@
             "sha256": "91132feca23d0ca0f3415956c402c3a9e9529d93fbdf368b13e72bf9071d1201",
             "size": 1331200
         },
-        "Books/Opening Names/Italian (conflict, Yoga7, 2026-10-03 15.03).pdb": {
-            "device": "Intel5",
-            "modified": "2026-10-05T09:40:24Z",
-            "sha256": "90ca1de1099cb4daaade674af7d73a7b4e05051bd5999c7bc804f3ffa835c26b",
-            "size": 1433600
-        },
         "Books/Opening Names/Italian.pdb": {
             "device": "Intel5",
             "modified": "2026-10-05T09:40:19Z",
@@ -167,6 +161,13 @@
         "Books/Opening Names/Italian (conflict, Intel5, 2026-09-29 16.59).pdb": {
             "at": "2026-10-02T17:34:59Z",
             "device": "Yoga7",
+            "into": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c03",
+            "intoPath": "Books/Opening Names/Italian.pdb",
+            "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c03"
+        },
+        "Books/Opening Names/Italian (conflict, Yoga7, 2026-10-03 15.03).pdb": {
+            "at": "2026-10-05T09:40:25Z",
+            "device": "Intel5",
             "into": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c03",
             "intoPath": "Books/Opening Names/Italian.pdb",
             "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c03"
@@ -327,7 +328,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 412,
-    "updatedAt": "2026-10-05T09:40:25Z",
+    "revision": 413,
+    "updatedAt": "2026-10-05T09:40:27Z",
     "updatedBy": "Intel5"
 }
