@@ -35,10 +35,16 @@
             "sha256": "91132feca23d0ca0f3415956c402c3a9e9529d93fbdf368b13e72bf9071d1201",
             "size": 1331200
         },
-        "Books/Opening Names/Italian.pdb": {
-            "device": "Intel5",
-            "modified": "2026-10-05T13:41:31Z",
+        "Books/Opening Names/Italian (conflict, Intel5, 2026-10-05 15.41).pdb": {
+            "device": "Yoga7",
+            "modified": "2026-10-05T15:03:45Z",
             "sha256": "7101f47a93fb8072dedd94f99d0c8122d001968ff9374f8d1fbb97efe468bc5e",
+            "size": 1433600
+        },
+        "Books/Opening Names/Italian.pdb": {
+            "device": "Yoga7",
+            "modified": "2026-10-05T15:03:40Z",
+            "sha256": "a33e7ada9ae7b56462c97b4f5913904218057c7b367d48bc2b561003e8fc09c6",
             "size": 1433600
         },
         "Books/Pragma Openings.bin": {
@@ -85,8 +91,8 @@
         },
         "Databases/lichess.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-04T22:42:44Z",
-            "sha256": "2136e2639718bd6250833b78225fd528a3de2095f4a96ed581a3fb899ae087a2",
+            "modified": "2026-10-05T15:03:41Z",
+            "sha256": "657cbc261da2045cdc7318961d8387036f7f2f0f03728e99a9cda032e6707722",
             "size": 86016
         },
         "Databases/tornei-elo-standard.pdb": {
@@ -328,7 +334,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 424,
-    "updatedAt": "2026-10-05T14:06:22Z",
-    "updatedBy": "Intel5"
+    "revision": 425,
+    "updatedAt": "2026-10-05T15:03:45Z",
+    "updatedBy": "Yoga7"
 }
