@@ -1,29 +1,23 @@
 # Pragma Chess project
 pragma-chess: 2
 database:
-  path: /home/francesco/Scacchi/Pragma/Databases/chess-com.pdb
+  path: /home/francesco/Scacchi/Pragma/Databases/pppp.pdb
 chapters:
   current: 0
   none: true
   list:
     - title: Capitolo 1
       game: 0
-      ply: 17
+      ply: 0
       games:
-        - uid: 2528b87f-241b-56a1-9b32-064645d26296
-          white: yugami
-          black: cicciodarkast
-          whiteElo: 1355
-          blackElo: 1265
-          event: Live Chess
-          site: https://www.chess.com/game/live/173840437
-          date: 2011.09.06
-          round: "-"
-          result: 1-0
-          eco: A00
-          moves: h2h4 h7h6 h4h5 g7g5 b2b3 f7f6 c1b2 e8f7 g1f3 d7d6 f3g5 f6g5 b2h8 f8g7 h8g7 f7g7 c2c3
+        - uid: a3791889-c518-5a1f-8b2c-a5487744f518
+          event: "The UNBREAKABLE Catalan!: 📌Section 1: Main Lines📌"
+          date: 2026.09.26
+          fen: 8/8/8/8/8/8/8/8 w - - 0 1
+          tags: "[Variant \"Standard\"]\n[Opening \"?\"]\n[StudyName \"The UNBREAKABLE Catalan!\"]\n[ChapterName \"📌Section 1: Main Lines📌\"]\n[ChapterURL \"https://lichess.org/study/hAnnVmfo/bEE0urap\"]\n[Annotator \"https://lichess.org/@/mAtteoYOsef07\"]\n[UTCDate \"2026.09.26\"]\n[UTCTime \"09:13:21\"]\n[ChapterMode \"gamebook\"]"
+          comments: "{\"\":{\"0\":\"We first enter the main lines... 📌Main Ideas📌 1. Play on the queenside 2. Rapid development 3. Initiative 4. Positional play\"}}"
 board:
-  flipped: true
+  flipped: false
   coordinates: true
 engine:
   id: bundled
@@ -39,4 +33,4 @@ workspace:
   gamesHeight: 33.17
   movesWidth: 33.91
   engineHeight: 45.6
-  treeWidth: 22.76
+  treeWidth: 22.81
