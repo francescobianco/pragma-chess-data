@@ -8,21 +8,20 @@ chapters:
   list:
     - title: Capitolo 1
       game: 0
-      ply: 10
+      ply: 22
       games:
-        - uid: d59e5ac9-63e5-5e5c-9b92-5d1cd4480fb4
-          white: zwii
+        - uid: 1c027278-23dd-5038-aebf-ecd992489186
+          white: zukertort70
           black: cicciodarkast
-          whiteElo: 1409
-          blackElo: 1389
+          whiteElo: 1375
+          blackElo: 1227
           event: Live Chess
-          site: https://www.chess.com/game/live/220507561
-          date: 2011.12.16
+          site: https://www.chess.com/game/live/165011551
+          date: 2011.08.16
           round: "-"
           result: 1-0
-          eco: A02
-          moves: f2f4 e7e6 g1f3 b7b6 e2e3 c8b7 b2b3 b7f3 d1f3 d8h4 g2g3 h4d8 f3a8 b8c6 a8d8 e8d8 f1g2 f8c5 c1b2 g8f6 b1c3 f6g4 h2h3 g4f6 e1c1 d8e7 c3e4 c5b4 e4f6 g7f6 g3g4 h8a8 h3h4 a7a5 g4g5 f6g5 h4g5 a5a4 b2f6 e7d6 g2c6 d7c6 c2c3 b4a3 c1c2 a4b3 a2b3 c6c5 h1h7 c5c4 b3c4 a3c5 h7f7 a8a2 c2d3
-          variations: (10 c6 )
+          eco: C45
+          moves: e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 h7h6 c2c3 d4c3 b1c3 f8b4 e1g1 d7d6 c3d5 b4c5 a2a3 a7a6 d5f4 c8g4 d1b3 g4f3 c4f7 e8f8 f4e6 f8e7 e6d8 c6d4 b3b7 d4e2 g1h1 f3g4 b7a8 h6h5 f7c4 h5h4 c4e2 h4h3 e2g4
 board:
   flipped: true
   coordinates: true
@@ -37,7 +36,7 @@ workspace:
     openingTree: true
     engine: true
     games: true
-  gamesHeight: 33.17
-  movesWidth: 33.91
-  engineHeight: 47.24
-  treeWidth: 20.15
+  gamesHeight: 33.2
+  movesWidth: 33.92
+  engineHeight: 46.52
+  treeWidth: 22.39
