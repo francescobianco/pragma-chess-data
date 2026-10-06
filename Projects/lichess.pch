@@ -8,20 +8,20 @@ chapters:
   list:
     - title: Capitolo 1
       game: 0
-      ply: 22
+      ply: 17
       games:
-        - uid: 1c027278-23dd-5038-aebf-ecd992489186
-          white: zukertort70
+        - uid: 2528b87f-241b-56a1-9b32-064645d26296
+          white: yugami
           black: cicciodarkast
-          whiteElo: 1375
-          blackElo: 1227
+          whiteElo: 1355
+          blackElo: 1265
           event: Live Chess
-          site: https://www.chess.com/game/live/165011551
-          date: 2011.08.16
+          site: https://www.chess.com/game/live/173840437
+          date: 2011.09.06
           round: "-"
           result: 1-0
-          eco: C45
-          moves: e2e4 e7e5 g1f3 b8c6 d2d4 e5d4 f1c4 h7h6 c2c3 d4c3 b1c3 f8b4 e1g1 d7d6 c3d5 b4c5 a2a3 a7a6 d5f4 c8g4 d1b3 g4f3 c4f7 e8f8 f4e6 f8e7 e6d8 c6d4 b3b7 d4e2 g1h1 f3g4 b7a8 h6h5 f7c4 h5h4 c4e2 h4h3 e2g4
+          eco: A00
+          moves: h2h4 h7h6 h4h5 g7g5 b2b3 f7f6 c1b2 e8f7 g1f3 d7d6 f3g5 f6g5 b2h8 f8g7 h8g7 f7g7 c2c3
 board:
   flipped: true
   coordinates: true
@@ -36,7 +36,7 @@ workspace:
     openingTree: true
     engine: true
     games: true
-  gamesHeight: 33.2
-  movesWidth: 33.92
-  engineHeight: 46.52
-  treeWidth: 22.39
+  gamesHeight: 33.17
+  movesWidth: 33.91
+  engineHeight: 45.6
+  treeWidth: 22.76

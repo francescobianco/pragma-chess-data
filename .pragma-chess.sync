@@ -79,8 +79,8 @@
         },
         "Databases/chess-com.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-06T00:18:33Z",
-            "sha256": "f6e334915bc7bf3a86ad8d86097d27c0822dd518b1e41e21ac74351d95c104a5",
+            "modified": "2026-10-06T18:04:04Z",
+            "sha256": "51808e43e48338cb20a8bc3d6117bdf87f63f5c7ece4fab1fd326d86bd001e08",
             "size": 3284992
         },
         "Databases/lichess.pdb": {
@@ -133,9 +133,9 @@
         },
         "Projects/lichess.pch": {
             "device": "Yoga7",
-            "modified": "2026-10-06T00:12:16Z",
-            "sha256": "154063825180bc7444f5edb795993a0f7e1a9f523a05dcbb509c7bb6b7488304",
-            "size": 1065
+            "modified": "2026-10-06T18:04:04Z",
+            "sha256": "03ce64303d87a028c6a434b918bae36193b83d0ab1f6c813fe7a0b1898b1cbbe",
+            "size": 950
         },
         "Projects/scacchi1.pch": {
             "device": "Yoga7",
@@ -348,7 +348,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 690,
-    "updatedAt": "2026-10-06T17:10:01Z",
-    "updatedBy": "Intel5"
+    "revision": 691,
+    "updatedAt": "2026-10-06T18:04:05Z",
+    "updatedBy": "Yoga7"
 }
