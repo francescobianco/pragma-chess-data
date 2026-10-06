@@ -67,8 +67,8 @@
         },
         "Databases/aaaa.pdb": {
             "device": "Intel5",
-            "modified": "2026-10-06T07:46:47Z",
-            "sha256": "d22d402eb53abbf96f906132b272cd304c11705b1f1f28e819d4edbd73c11c87",
+            "modified": "2026-10-06T07:48:25Z",
+            "sha256": "b2df775c39602ae0271bd4f0f0863718eca386b015ed9c0d79143e406e0cae19",
             "size": 294912
         },
         "Databases/allenamento.pdb": {
@@ -342,7 +342,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 565,
-    "updatedAt": "2026-10-06T07:48:22Z",
+    "revision": 566,
+    "updatedAt": "2026-10-06T07:48:52Z",
     "updatedBy": "Intel5"
 }
