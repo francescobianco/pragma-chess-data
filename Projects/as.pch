@@ -1,26 +1,32 @@
 # Pragma Chess project
 pragma-chess: 2
+name: Prova
 database:
   path: /home/francesco/Chess/Pragma/Databases/aaaa.pdb
 chapters:
   current: 0
-  automatic: true
+  none: true
   list:
     - title: Capitolo 1
-      game: 1
-      ply: 1
+      game: 0
+      ply: 14
       games:
-        - moves: e2e4 e7e5
-        - date: 2026.10.06
+        - white: francescobianco
+          black: MoeJoeBro
+          whiteElo: 795
+          blackElo: 779
+          event: Partita amichevole su lichess.org
+          site: https://lichess.org/M4Xe2kSY
+          date: 2026.10.06
           result: "*"
-          moves: e2e4
+          moves: e2e4 g8f6 e4e5 f6d5 b1c3 d5b6 d2d4 d7d5 e5d6 c7d6 f1b5 c8d7 b5c6 d7c6
 board:
   flipped: false
   coordinates: true
 engine:
   id: beeac205-bcef-4e00-a43e-8f5792eca4e8
   name: Stockfish 16
-  analyzing: true
+  analyzing: false
 workspace:
   panels:
     toolbar: true
@@ -28,7 +34,7 @@ workspace:
     openingTree: true
     engine: true
     games: true
-  gamesHeight: 24.97
-  movesWidth: 31.06
-  engineHeight: 44.53
-  treeWidth: 24.9
+  gamesHeight: 21.1
+  movesWidth: 30.76
+  engineHeight: 47.15
+  treeWidth: 12.47
