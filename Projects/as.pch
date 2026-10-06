@@ -20,6 +20,7 @@ chapters:
           date: 2026.10.06
           result: "*"
           moves: e2e4 g8f6 e4e5 f6d5 b1c3 d5b6 d2d4 d7d5 e5d6 c7d6 f1b5 c8d7 b5c6 d7c6
+          comments: "{\"\":{\"3\":\"dsfsfsfsdfs\\nfsfsd\",\"4\":\"asdasdasdasd\\n\\nsdfdf\"}}"
 board:
   flipped: false
   coordinates: true
@@ -35,6 +36,6 @@ workspace:
     engine: true
     games: true
   gamesHeight: 21.1
-  movesWidth: 30.76
+  movesWidth: 30.84
   engineHeight: 47.15
-  treeWidth: 12.47
+  treeWidth: 17.28
