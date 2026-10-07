@@ -91,8 +91,8 @@
         },
         "Databases/pppp.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-07T19:20:47Z",
-            "sha256": "a31f9325762f53520dc187b180054d94d0a1cb3cdd1d118d4dbcabc6031463cd",
+            "modified": "2026-10-07T19:26:00Z",
+            "sha256": "dfb8deb7b82865307bcfb8382bb2024b232b9792a690f0adb1c3d1608c40c830",
             "size": 155648
         },
         "Databases/tornei-elo-standard.pdb": {
@@ -354,7 +354,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 843,
-    "updatedAt": "2026-10-07T19:20:47Z",
+    "revision": 844,
+    "updatedAt": "2026-10-07T19:26:00Z",
     "updatedBy": "Yoga7"
 }
