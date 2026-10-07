@@ -19,9 +19,9 @@
     "files": {
         ".pragma-chess.conf": {
             "device": "Intel5",
-            "modified": "2026-10-07T15:51:06Z",
-            "sha256": "c2c07e354969758acbebef506733b438a36c8bc0c65b604310e39a01785c8989",
-            "size": 128
+            "modified": "2026-10-07T17:46:35Z",
+            "sha256": "632c7b2ec1e453c9c94ff101a7eb2d9e895730d05e3fcef783c1293ce3e37221",
+            "size": 129
         },
         "Books/Libro Pazzo.bin": {
             "device": "Yoga7",
@@ -67,8 +67,8 @@
         },
         "Databases/aaaa.pdb": {
             "device": "Intel5",
-            "modified": "2026-10-07T17:43:52Z",
-            "sha256": "c6ca4af64575698f1b549a236127dcddac6f18abc9b759c1e6ba835774200aad",
+            "modified": "2026-10-07T17:44:02Z",
+            "sha256": "1d5175f666883981b84e7d162ce5c5957d8ebec12c45f0afe65592633feba899",
             "size": 307200
         },
         "Databases/allenamento.pdb": {
@@ -354,7 +354,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 823,
-    "updatedAt": "2026-10-07T17:43:59Z",
+    "revision": 824,
+    "updatedAt": "2026-10-07T17:48:58Z",
     "updatedBy": "Intel5"
 }
