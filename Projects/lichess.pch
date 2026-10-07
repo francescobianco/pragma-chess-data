@@ -1,21 +1,24 @@
 # Pragma Chess project
 pragma-chess: 2
 database:
-  path: /home/francesco/Scacchi/Pragma/Databases/pppp.pdb
+  path: /home/francesco/Scacchi/Pragma/Databases/Endgames.pdb
 chapters:
   current: 0
   none: true
   list:
     - title: Capitolo 1
       game: 0
-      ply: 0
+      ply: 34
       games:
-        - uid: e8b16edd-42da-5725-9362-a4ee4ee29f3a
-          event: "The UNBREAKABLE Catalan!: Welcome!👋🏼"
-          date: 2026.09.26
-          fen: rnbqkbnr/pppppppp/8/8/2PP4/5NP1/PP2PPBP/RNBQK2R w KQkq - 0 1
-          tags: "[Variant \"Standard\"]\n[Opening \"?\"]\n[StudyName \"The UNBREAKABLE Catalan!\"]\n[ChapterName \"Welcome!👋🏼\"]\n[ChapterURL \"https://lichess.org/study/hAnnVmfo/rJLN52QS\"]\n[Annotator \"https://lichess.org/@/mAtteoYOsef07\"]\n[UTCDate \"2026.09.26\"]\n[UTCTime \"09:13:21\"]"
-          comments: "{\"\":{\"0\":\"Hi everyone!👋🏻 I am doing a collab study with @RuyLopez1000 and my coach (@Joseph_Rivera)...📕 If you don't know me yet, I am a person who loves creating studies...📚 Time to introduce yourself @RuyLopez1000! [%anno \\\"RuyLopez1000\\\", ruylopez1000] Hello, I'm here to collab with @mAtteoYOsef07 and @Joseph_Rivera on this amazing study! I am a blogger and study maker as well! [%csl Bc4,Bd4,Bg2,Bg3,Bf3,Be2,Bf2,Bh2]\"}}"
+        - uid: 7111a8d6-495f-559b-bc41-bcc9040aca17
+          white: Botvinnik, Mikhail
+          black: Capablanca, Jose Raul
+          event: AVRO
+          site: Netherlands
+          date: 1938.??.??
+          result: 1-0
+          eco: E40
+          moves: d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 d7d5 a2a3 b4c3 b2c3 c7c5 c4d5 e6d5 f1d3 e8g8 g1e2 b7b6 e1g1 c8a6 d3a6 b8a6 c1b2 d8d7 a3a4 f8e8 d1d3 c5c4 d3c2 a6b8 a1e1 b8c6 e2g3 c6a5 f2f3 a5b3 e3e4 d7a4 e4e5 f6d7 c2f2 g7g6 f3f4 f7f5 e5f6 d7f6 f4f5 e8e1 f1e1 a8e8 e1e6 e8e6 f5e6 g8g7 f2f4 a4e8 f4e5 e8e7 b2a3 e7a3 g3h5 g6h5 e5g5 g7f8 g5f6 f8g8 e6e7 a3c1 g1f2 c1c2 f2g3 c2d3 g3h4 d3e4 h4h5 e4e2 h5h4 e2e4 g2g4 e4e1 h4h5
 board:
   flipped: false
   coordinates: true
@@ -23,6 +26,7 @@ engine:
   id: bundled
   name: Stockfish 18
   analyzing: true
+explain: true
 workspace:
   panels:
     toolbar: true
@@ -32,5 +36,5 @@ workspace:
     games: true
   gamesHeight: 33.17
   movesWidth: 33.91
-  engineHeight: 55.44
-  treeWidth: 26.15
+  engineHeight: 46.65
+  treeWidth: 27.04
