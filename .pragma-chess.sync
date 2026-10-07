@@ -72,8 +72,8 @@
         },
         "Books/Opening Names/Italian.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-05T15:03:40Z",
-            "sha256": "a33e7ada9ae7b56462c97b4f5913904218057c7b367d48bc2b561003e8fc09c6",
+            "modified": "2026-10-07T21:11:31Z",
+            "sha256": "02ff3fad2ceec8be179fad7765c815da97b0c6de7cb747b0a736c1d84e26388b",
             "size": 1433600
         },
         "Books/Pragma Openings.bin": {
@@ -359,7 +359,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 870,
-    "updatedAt": "2026-10-07T21:08:05Z",
+    "revision": 871,
+    "updatedAt": "2026-10-07T21:11:33Z",
     "updatedBy": "Yoga7"
 }
