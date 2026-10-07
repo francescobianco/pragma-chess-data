@@ -9,28 +9,30 @@ chapters:
   list:
     - title: Capitolo 1
       game: 0
-      ply: 26
+      ply: 38
       games:
-        - uid: lobby:273012407bd938d935aaddbdfaa00cf0df68860083c2eaee4e307e578622927b:46247ac4883e45144f0be5e1b0fc217ad40a32fa903daadd362a53e982760039:50c8dc800f4a92c3f61af09ac88556e9d26f0c9e1a01cbc4d25899407b5692f7
-          white: Claude
-          black: Francesco Bianco
-          event: Il sacrificio di Smyslov
-          site: Lobby di Pragma Chess
-          date: 2026.10.07
-          result: "*"
-          moves: e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 c7c6 g1f3 g8f6 f1c4 c8g4 h2h3 g4h5 g2g4 h5g6 f3e5 b8d7 e5d7 f6d7 c1d2 e7e6 d1e2 f8b4 a2a3 b4d6
+        - uid: 1639b2b6-b2b2-5bf5-b239-253c0776b664
+          white: tintwailwin
+          black: masterc42
+          whiteElo: 1100
+          blackElo: 1199
+          event: Live Chess
+          site: Chess.com
+          date: 2023.10.18
+          result: 1/2-1/2
+          eco: A00
+          moves: d2d3 e7e6 b2b3 g8f6 c1b2 d7d5 g2g3 d5d4 f1g2 e6e5 g1f3 b8c6 c2c3 f8e7 c3d4 c6d4 e1g1 e8g8 e2e3 d4f3 d1f3 c8g4 f3b7 g4e2 f1e1 a8b8 b7a6 e2d3 a6a7 e5e4 b1c3 e7b4 e1d1 d8e7 a7d4 c7c5 c3d5 b8d8 d5e7 g8h8 d4e5 f8e8 g3g4 d8d7 g4g5 d7e7 e5d6 f6g4 g5g6 f7f6 g6h7 e7b7 f2f3 g4e3 d1c1 c5c4 d6c6 b7b8 f3e4 e3g2 g1g2 d3e4 c6e4 e8e4 b3c4 b8c8 b2c3 b4c3 c1c3 e4c4 c3c4 c8c4 a2a4 h8h7 a4a5 c4c8 a5a6 c8a8 a6a7 h7h6 a1a4 g7g5 g2g3 f6f5 h2h4 h6h5 h4g5 h5g5 g3f3 g5f6 a4a5 f6g5 a5a4 g5f6 a4a6 f6e5 a6a5 e5e6 f3f4 e6e7 f4f5 a8f8 f5e5 f8a8 e5d5 e7d7 d5c5 d7c7 c5b5 c7b7 a5a1 a8a7 a1f1 a7a3 f1f7 b7c8 b5c6 a3c3 c6d6 c8b8 f7f8 b8b7 f8f7 b7b6 d6e5 c3c5 e5d4 c5c1 f7f6 c1c6 f6f1 c6c8 d4d5 c8d8 d5c4 d8c8 c4d5 c8d8 d5c4 d8c8 c4b4 b6b7 b4b5 b7c7 b5c5 c7d7 c5d5 c8d8 d5c5 d7e7 c5c4 d8c8 c4d5 c8d8 d5e5 d8d2 f1h1 d2e2 e5d5 e7d7 h1h7 d7d8 d5d6 d8c8 d6c6 c8d8 c6d6 e2d2 d6e6 d8c8 e6e5 d2a2 e5d5 a2a5 d5c6 a5a6 c6b5 a6a8 b5c6 a8a6 c6b5 a6a8 b5c5 a8a5 c5b6 a5g5 b6c6 g5g6 c6c5 c8b8 c5b5 b8c8 b5c5 c8d8 c5d5 d8c8 d5e5 c8d8 e5f5 g6a6 f5g5 d8c8 g5f5 c8b8 f5e5 b8c8 e5d5 c8d8 d5c5 a6g6 h7a7 g6h6
+          annotations: 16:?? 17:?? 18:?? 19:?? 22:?? 24:?? 25:? 27:?? 32:?! 33:?! 35:?? 38:?? 55:?! 61:?? 65:?? 66:?? 80:?? 81:??
+          variations: (16 exd4 O-O O-O Nbd2 Ng4 Rc1 Nge5 Nxe5 Nxe5 Rc2 Nc6 Qc1 ) (17 Nxe5 c6 O-O h5 e3 Ne6 Qc2 Nd7 d4 h4 Ng6 fxg6 ) (18 Nxf3+ exf3 O-O Re1 c6 Rxe5 Nd5 Re2 Be6 Nc3 Qd7 Nxd5 ) (19 Nxe5 c6 e3 Nb5 d4 a5 Nd2 Bb4 Ndc4 Bf5 a3 Bc3 ) (22 Qxd3 Bxe5 c6 h3 Qd5 Qf4 Qa5 Nc3 Nh5 Qe4 Nf6 ) (24 Qxd3 Bxe5 Bd6 Bd4 Rab8 Qxa7 Ne4 f3 Ra8 Qb7 Nc5 Qb4 ) (25 Qxa8 Qxa8 Bxa8 Bxf1 Kxf1 Rxa8 Bxe5 Ng4 Bb2 Nxh2+ Ke2 a5 ) (27 Qxa7 Qxd3 Qxc7 Rfe8 Rc1 Bf8 Qc2 Qa6 Nd2 Bd3 Bf1 Bxf1 ) (32 c5 Red1 Ra8 Qb7 Rb8 Qa7 ) (33 Qd4 Qxd4 exd4 h5 Bf1 Rfd8 Red1 Bxf1 Kxf1 h4 gxh4 Rd7 ) (35 Na4 Rfd8 Bxf6 Qxf6 Rac1 c6 Nb6 h5 h4 Qe6 Bf1 Bxf1 ) (38 cxd4 Nxe7+ Bxe7 Bxd4 Rfc8 Ba7 Ra8 Bd4 Bb4 a4 Ba5 Rac1 ) (55 fxe4 c4 Qc6 Rbe7 bxc4 Bc2 Rdc1 Bd2 Kh1 Bxc1 Rxc1 Re6 ) (61 Rxc4 Bxc4 Qxc4 Ne3 Qc7 Rbc8 Qf4 Ng2 Kxg2 Rc2+ Kh1 Bd2 ) (65 Kf3 Rbe8 Rxc4 Re3+ Kg2 Re2+ Kg1 Bd6 Bd4 Rxh2 a4 Ree2 ) (66 Re2+ Kf3 Rxb2 c5 Ba5 c6 Bc7 Rd1 Rc2 Rac1 Rxc1 Rxc1 ) (80 g5 Kf3 f5 Ke3 f4+ Kf3 Kh6 Ra5 Kg6 h3 Kh7 Ra6 ) (81 Kg3 Kg5 Ra5+ Kg6 Kf4 Kf7 Ra6 Ke8 Kf5 Kf7 Ra5 g6+ )
+          tags: "[TimeControl \"1800\"]\n[Termination \"Game drawn by 50-move rule\"]\n[Variant \"Standard\"]\n[Opening \"Mieses Opening\"]\n[StudyName \"masterc42's Old Games #4\"]\n[ChapterName \"tintwailwin - masterc42\"]\n[ChapterURL \"https://lichess.org/study/iob5mNFl/TRkwf4FF\"]\n[Annotator \"https://lichess.org/@/masterc42\"]"
+          comments: "{\"\":{\"1\":\"[%eval -0.15]\",\"10\":\"[%eval 0.33]\",\"100\":\"[%eval 0.0]\",\"101\":\"[%eval 0.0]\",\"102\":\"[%eval 0.0]\",\"103\":\"[%eval 0.0]\",\"104\":\"[%eval 0.0]\",\"105\":\"[%eval 0.0]\",\"106\":\"[%eval 0.0]\",\"107\":\"[%eval 0.0]\",\"108\":\"[%eval 0.0]\",\"109\":\"[%eval 0.0]\",\"11\":\"[%eval 0.16]\",\"110\":\"[%eval 0.0]\",\"111\":\"[%eval 0.0]\",\"112\":\"[%eval 0.0]\",\"113\":\"[%eval 0.0]\",\"114\":\"[%eval 0.0]\",\"115\":\"[%eval 0.0]\",\"116\":\"[%eval 0.0]\",\"117\":\"[%eval 0.0]\",\"118\":\"[%eval 0.0]\",\"119\":\"[%eval 0.0]\",\"12\":\"[%eval 0.45]\",\"120\":\"[%eval 0.0]\",\"121\":\"[%eval 0.0]\",\"122\":\"[%eval 0.06]\",\"123\":\"[%eval 0.0]\",\"124\":\"[%eval 0.0]\",\"125\":\"[%eval 0.0]\",\"126\":\"[%eval 0.0]\",\"127\":\"[%eval 0.0]\",\"128\":\"[%eval 0.0]\",\"129\":\"[%eval 0.0]\",\"13\":\"[%eval 0.4]\",\"130\":\"[%eval 0.0]\",\"131\":\"[%eval 0.0]\",\"132\":\"[%eval 0.01]\",\"133\":\"[%eval 0.0]\",\"134\":\"[%eval 0.0]\",\"135\":\"[%eval 0.0]\",\"136\":\"[%eval 0.0]\",\"137\":\"[%eval 0.0]\",\"138\":\"[%eval 0.0]\",\"139\":\"[%eval 0.0]\",\"14\":\"[%eval 0.77]\",\"140\":\"[%eval 0.0]\",\"141\":\"[%eval 0.0]\",\"142\":\"[%eval 0.0]\",\"143\":\"[%eval 0.0]\",\"144\":\"[%eval 0.0]\",\"145\":\"[%eval 0.0]\",\"146\":\"[%eval 0.0]\",\"147\":\"[%eval 0.0]\",\"148\":\"[%eval 0.0]\",\"149\":\"[%eval 0.0]\",\"15\":\"[%eval 0.7]\",\"150\":\"[%eval 0.0]\",\"151\":\"[%eval 0.0]\",\"152\":\"[%eval 0.0]\",\"153\":\"[%eval 0.0]\",\"154\":\"[%eval 0.0]\",\"155\":\"[%eval 0.0]\",\"156\":\"[%eval 0.0]\",\"157\":\"[%eval 0.0]\",\"158\":\"[%eval 0.0]\",\"159\":\"[%eval -0.02]\",\"16\":\"[%eval 3.0] Blunder. exd4 was best.\",\"160\":\"[%eval 0.0]\",\"161\":\"[%eval 0.0]\",\"162\":\"[%eval 0.0]\",\"163\":\"[%eval 0.0]\",\"164\":\"[%eval 0.0]\",\"165\":\"[%eval 0.0]\",\"166\":\"[%eval 0.0]\",\"167\":\"[%eval 0.0]\",\"168\":\"[%eval 0.0]\",\"169\":\"[%eval 0.0]\",\"17\":\"[%eval 0.46] Blunder. Nxe5 was best.\",\"170\":\"[%eval 0.0]\",\"171\":\"[%eval 0.0]\",\"172\":\"[%eval 0.0]\",\"173\":\"[%eval 0.0]\",\"174\":\"[%eval 0.0]\",\"175\":\"[%eval 0.0]\",\"176\":\"[%eval 0.0]\",\"177\":\"[%eval 0.0]\",\"178\":\"[%eval 0.0]\",\"179\":\"[%eval 0.0]\",\"18\":\"[%eval 3.03] Blunder. Nxf3+ was best.\",\"180\":\"[%eval 0.0]\",\"181\":\"[%eval 0.0]\",\"182\":\"[%eval 0.0]\",\"183\":\"[%eval 0.0]\",\"184\":\"[%eval 0.0]\",\"185\":\"[%eval 0.0]\",\"186\":\"[%eval 0.0]\",\"187\":\"[%eval 0.0]\",\"188\":\"[%eval 0.0]\",\"189\":\"[%eval 0.0]\",\"19\":\"[%eval 0.19] Blunder. Nxe5 was best.\",\"190\":\"[%eval 0.0]\",\"191\":\"[%eval 0.0]\",\"192\":\"[%eval 0.0]\",\"193\":\"[%eval 0.0]\",\"194\":\"[%eval 0.0]\",\"195\":\"[%eval 0.0]\",\"196\":\"[%eval 0.0]\",\"197\":\"[%eval 0.0]\",\"198\":\"[%eval 0.0]\",\"199\":\"[%eval 0.0]\",\"2\":\"[%eval 0.02]\",\"20\":\"[%eval 0.09]\",\"200\":\"[%eval 0.0]\",\"201\":\"[%eval 0.0]\",\"202\":\"[%eval 0.0]\",\"203\":\"[%eval 0.0]\",\"204\":\"[%eval 0.0]\",\"205\":\"[%eval 0.0]\",\"206\":\"[%eval 0.0]\",\"207\":\"[%eval 0.0]\",\"208\":\"[%eval 0.0]\",\"209\":\"[%eval 0.0]\",\"21\":\"[%eval 0.0]\",\"210\":\"[%eval 0.0]\",\"211\":\"[%eval 0.0]\",\"212\":\"[%eval 0.0] 1/2-1/2 The game is a draw.\",\"22\":\"[%eval 2.4] Blunder. Qxd3 was best.\",\"23\":\"[%eval 1.97]\",\"24\":\"[%eval 5.14] Blunder. Qxd3 was best.\",\"25\":\"[%eval 2.86] Mistake. Qxa8 was best.\",\"26\":\"[%eval 2.8]\",\"27\":\"[%eval 0.34] Blunder. Qxa7 was best.\",\"28\":\"[%eval 0.31]\",\"29\":\"[%eval 0.25]\",\"3\":\"[%eval -0.11]\",\"30\":\"[%eval 0.32]\",\"31\":\"[%eval 0.0]\",\"32\":\"[%eval 0.66] Inaccuracy. c5 was best.\",\"33\":\"[%eval 0.07] Inaccuracy. Qd4 was best.\",\"34\":\"[%eval 0.46]\",\"35\":\"[%eval -4.1] Blunder. Na4 was best.\",\"36\":\"[%eval -3.98]\",\"37\":\"[%eval -3.88]\",\"38\":\"[%eval 14.25] Blunder. cxd4 was best.\",\"39\":\"[%eval 14.05]\",\"4\":\"[%eval -0.13]\",\"40\":\"[%eval 13.7]\",\"41\":\"[%eval 10.93]\",\"42\":\"[%eval 15.0]\",\"43\":\"[%eval 10.16]\",\"44\":\"[%eval 16.35]\",\"45\":\"[%eval 8.31]\",\"46\":\"[%eval 8.3]\",\"47\":\"[%eval 8.45]\",\"48\":\"[%eval 8.4]\",\"49\":\"[%eval 8.04]\",\"5\":\"[%eval -0.21]\",\"50\":\"[%eval 8.38]\",\"51\":\"[%eval 7.81]\",\"52\":\"[%eval 8.9]\",\"53\":\"[%eval 6.99]\",\"54\":\"[%eval 6.65]\",\"55\":\"[%eval 5.15] Inaccuracy. fxe4 was best.\",\"56\":\"[%eval 5.15]\",\"57\":\"[%eval 4.85]\",\"58\":\"[%eval 4.8]\",\"59\":\"[%eval 3.91]\",\"6\":\"[%eval -0.14]\",\"60\":\"[%eval 3.61]\",\"61\":\"[%eval 0.0] Blunder. Rxc4 was best.\",\"62\":\"[%eval -0.05]\",\"63\":\"[%eval -0.12]\",\"64\":\"[%eval 0.0]\",\"65\":\"[%eval -5.73] Blunder. Kf3 was best.\",\"66\":\"[%eval -0.09] Blunder. Re2+ was best.\",\"67\":\"[%eval -0.2]\",\"68\":\"[%eval 0.0]\",\"69\":\"[%eval 0.0]\",\"7\":\"[%eval -0.4]\",\"70\":\"[%eval 0.0]\",\"71\":\"[%eval 0.0]\",\"72\":\"[%eval 0.0]\",\"73\":\"[%eval 0.0]\",\"74\":\"[%eval 0.0]\",\"75\":\"[%eval 0.0]\",\"76\":\"[%eval 0.0]\",\"77\":\"[%eval 0.0]\",\"78\":\"[%eval 0.0]\",\"79\":\"[%eval 0.0]\",\"8\":\"[%eval 0.11]\",\"80\":\"[%eval 4.28] Blunder. g5 was best.\",\"81\":\"[%eval 0.0] Blunder. Kg3 was best.\",\"82\":\"[%eval 0.0]\",\"83\":\"[%eval 0.0]\",\"84\":\"[%eval 0.0]\",\"85\":\"[%eval 0.0]\",\"86\":\"[%eval 0.0]\",\"87\":\"[%eval 0.0]\",\"88\":\"[%eval 0.0]\",\"89\":\"[%eval 0.0]\",\"9\":\"[%eval 0.09]\",\"90\":\"[%eval 0.0]\",\"91\":\"[%eval 0.0]\",\"92\":\"[%eval 0.0]\",\"93\":\"[%eval 0.0]\",\"94\":\"[%eval 0.0]\",\"95\":\"[%eval 0.0]\",\"96\":\"[%eval 0.0]\",\"97\":\"[%eval 0.0]\",\"98\":\"[%eval 0.0]\",\"99\":\"[%eval 0.0]\"}}"
 board:
   flipped: true
   coordinates: true
 engine:
   id: beeac205-bcef-4e00-a43e-8f5792eca4e8
   name: Stockfish 16
-  analyzing: true
-lobby:
-  room: 273012407bd938d935aaddbdfaa00cf0df68860083c2eaee4e307e578622927b
-  white: 46247ac4883e45144f0be5e1b0fc217ad40a32fa903daadd362a53e982760039
-  black: 50c8dc800f4a92c3f61af09ac88556e9d26f0c9e1a01cbc4d25899407b5692f7
-  mode: true
+  analyzing: false
 workspace:
   panels:
     toolbar: true
@@ -38,7 +40,7 @@ workspace:
     openingTree: true
     engine: true
     games: true
-  gamesHeight: 21.1
-  movesWidth: 30.84
-  engineHeight: 56.98
-  treeWidth: 23.96
+  gamesHeight: 22.1
+  movesWidth: 31.2
+  engineHeight: 45.17
+  treeWidth: 24.48
