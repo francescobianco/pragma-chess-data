@@ -35,11 +35,6 @@
             "device": "Yoga7",
             "sha256": "f41afcee4acb9e2cfd20d54de0dab3913ee0da8c765b99840d6a79b5dcd347e2"
         },
-        "Databases/pppp.pdb": {
-            "at": "2026-10-07T20:27:39Z",
-            "device": "Yoga7",
-            "sha256": "dad2e468692d2bdba600b2598fc10d5dcb5564443dda07cd380a68dd1dc0d074"
-        },
         "Databases/prova.pdb": {
             "at": "2026-10-04T16:33:46Z",
             "device": "Yoga7",
@@ -105,6 +100,12 @@
             "modified": "2026-10-07T20:30:11Z",
             "sha256": "9bd9dd5ea2e1fbe6e9bf9827ecfd383df521f5bdf9579a84bccf19c24928f87c",
             "size": 1081344
+        },
+        "Databases/pppp.pdb": {
+            "device": "Intel5",
+            "modified": "2026-10-07T20:10:51Z",
+            "sha256": "f8ea57a2f0c807a5100ada94bbf0316dfa6ff71ba8f6d5e10379aae89691be3c",
+            "size": 155648
         },
         "LICENSE": {
             "device": "Yoga7",
@@ -359,7 +360,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 868,
-    "updatedAt": "2026-10-07T20:30:14Z",
-    "updatedBy": "Yoga7"
+    "revision": 869,
+    "updatedAt": "2026-10-07T20:30:51Z",
+    "updatedBy": "Intel5"
 }
