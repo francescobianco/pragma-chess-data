@@ -94,6 +94,18 @@
             "sha256": "9db90881d42c99cd7012213c83cbc646895ed64c91636ffb7cf3f3712a03a38c",
             "size": 86016
         },
+        "Databases/Endgames.pdb": {
+            "device": "Yoga7",
+            "modified": "2026-10-07T20:30:10Z",
+            "sha256": "e180d9a0c46b9ca15c947f795f9471e3454fab7b25d3cb74a1653a88f7e6b18b",
+            "size": 1257472
+        },
+        "Databases/Tactics.pdb": {
+            "device": "Yoga7",
+            "modified": "2026-10-07T20:30:11Z",
+            "sha256": "9bd9dd5ea2e1fbe6e9bf9827ecfd383df521f5bdf9579a84bccf19c24928f87c",
+            "size": 1081344
+        },
         "LICENSE": {
             "device": "Yoga7",
             "modified": "2026-09-17T20:05:16Z",
@@ -347,7 +359,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 867,
-    "updatedAt": "2026-10-07T20:27:53Z",
+    "revision": 868,
+    "updatedAt": "2026-10-07T20:30:14Z",
     "updatedBy": "Yoga7"
 }
