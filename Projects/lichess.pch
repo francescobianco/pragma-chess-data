@@ -8,26 +8,21 @@ chapters:
   list:
     - title: Capitolo 1
       game: 0
-      ply: 27
+      ply: 0
       games:
-        - uid: 37b74b38-4e94-5a9c-ba8d-dc59447ba942
-          white: francescobianco
-          black: maffyoube
-          whiteElo: 795
-          blackElo: 768
-          event: Partita classificata su lichess.org
-          site: https://lichess.org/zBwaB2Oq
-          date: 2026.10.07
-          result: 1-0
-          moves: e2e4 g8f6 b1c3 e7e6 d2d4 f8d6 e4e5 d6e7 e5f6 e7f6 g1f3 e8g8 f1d3 h7h6 h2h4 b8c6 f3g5 h6g5 h4g5 f6d4 d3h7 g8h8 d1h5 f7f6 h7g6 h8g8 h5h7
-          tags: "[TimeControl \"600+0\"]"
+        - uid: e8b16edd-42da-5725-9362-a4ee4ee29f3a
+          event: "The UNBREAKABLE Catalan!: Welcome!👋🏼"
+          date: 2026.09.26
+          fen: rnbqkbnr/pppppppp/8/8/2PP4/5NP1/PP2PPBP/RNBQK2R w KQkq - 0 1
+          tags: "[Variant \"Standard\"]\n[Opening \"?\"]\n[StudyName \"The UNBREAKABLE Catalan!\"]\n[ChapterName \"Welcome!👋🏼\"]\n[ChapterURL \"https://lichess.org/study/hAnnVmfo/rJLN52QS\"]\n[Annotator \"https://lichess.org/@/mAtteoYOsef07\"]\n[UTCDate \"2026.09.26\"]\n[UTCTime \"09:13:21\"]"
+          comments: "{\"\":{\"0\":\"Hi everyone!👋🏻 I am doing a collab study with @RuyLopez1000 and my coach (@Joseph_Rivera)...📕 If you don't know me yet, I am a person who loves creating studies...📚 Time to introduce yourself @RuyLopez1000! [%anno \\\"RuyLopez1000\\\", ruylopez1000] Hello, I'm here to collab with @mAtteoYOsef07 and @Joseph_Rivera on this amazing study! I am a blogger and study maker as well! [%csl Bc4,Bd4,Bg2,Bg3,Bf3,Be2,Bf2,Bh2]\"}}"
 board:
   flipped: false
   coordinates: true
 engine:
   id: bundled
   name: Stockfish 18
-  analyzing: false
+  analyzing: true
 workspace:
   panels:
     toolbar: true
@@ -37,5 +32,5 @@ workspace:
     games: true
   gamesHeight: 33.17
   movesWidth: 33.91
-  engineHeight: 46.8
-  treeWidth: 23.28
+  engineHeight: 55.44
+  treeWidth: 26.15
