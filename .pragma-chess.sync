@@ -1,19 +1,54 @@
 {
     "deleted": {
+        "Databases/Le mie partite.pdb": {
+            "at": "2026-10-07T20:27:39Z",
+            "device": "Yoga7",
+            "sha256": "3db4c61fec1da549af961eaa5347bf7ef25834009f5fa51d0497dc6237d7df1f"
+        },
         "Databases/Prova (Samsung SM-N960F).pdb": {
             "at": "2026-10-04T16:33:46Z",
             "device": "Yoga7",
             "sha256": "ddbca1d1457de55b91f6a5774cea41f08b8e595b9f8e8b1faad0b01245b0e0b2"
+        },
+        "Databases/aaaa.pdb": {
+            "at": "2026-10-07T20:27:39Z",
+            "device": "Yoga7",
+            "sha256": "1e22f31f2a23fbde1b9b0d1a7e9e4cba9552336a804b3ed1f67c16c428c52b59"
+        },
+        "Databases/allenamento.pdb": {
+            "at": "2026-10-07T20:27:39Z",
+            "device": "Yoga7",
+            "sha256": "4257472bb6e1f75b846fa28e194fb599b8414e37713cd7de0dc50d665fed440e"
         },
         "Databases/cava.pdb": {
             "at": "2026-10-04T16:33:46Z",
             "device": "Yoga7",
             "sha256": "eec63022494bf3d6fdd2ef14529b1ea3bf21419018ba1b93d429ddf06de95b7b"
         },
+        "Databases/chess-com.pdb": {
+            "at": "2026-10-07T20:27:39Z",
+            "device": "Yoga7",
+            "sha256": "b4632a3ff0555cb530ea32ffde4696644453e76c78204cd90177f81a4399feab"
+        },
+        "Databases/lichess.pdb": {
+            "at": "2026-10-07T20:27:39Z",
+            "device": "Yoga7",
+            "sha256": "f41afcee4acb9e2cfd20d54de0dab3913ee0da8c765b99840d6a79b5dcd347e2"
+        },
+        "Databases/pppp.pdb": {
+            "at": "2026-10-07T20:27:39Z",
+            "device": "Yoga7",
+            "sha256": "dad2e468692d2bdba600b2598fc10d5dcb5564443dda07cd380a68dd1dc0d074"
+        },
         "Databases/prova.pdb": {
             "at": "2026-10-04T16:33:46Z",
             "device": "Yoga7",
             "sha256": "e07a2248c2c48d0e677b149b41b756129043066196431da084779e1ac6889911"
+        },
+        "Databases/tornei-elo-standard.pdb": {
+            "at": "2026-10-07T20:27:39Z",
+            "device": "Yoga7",
+            "sha256": "2357576a9d4e09f1034da041e315732d5e315829c0cad53d8a03c45df2e6151f"
         }
     },
     "files": {
@@ -58,48 +93,6 @@
             "modified": "2026-09-29T14:20:28Z",
             "sha256": "e0a05cac6ace38411e0d3db96a1a921d085ad7cc56360d6036e308d1bc881bfa",
             "size": 73728
-        },
-        "Databases/Le mie partite.pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T16:16:00Z",
-            "sha256": "3db4c61fec1da549af961eaa5347bf7ef25834009f5fa51d0497dc6237d7df1f",
-            "size": 73728
-        },
-        "Databases/aaaa.pdb": {
-            "device": "Intel5",
-            "modified": "2026-10-07T20:10:53Z",
-            "sha256": "1e22f31f2a23fbde1b9b0d1a7e9e4cba9552336a804b3ed1f67c16c428c52b59",
-            "size": 307200
-        },
-        "Databases/allenamento.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-10-04T18:17:04Z",
-            "sha256": "4257472bb6e1f75b846fa28e194fb599b8414e37713cd7de0dc50d665fed440e",
-            "size": 86016
-        },
-        "Databases/chess-com.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-10-06T18:04:56Z",
-            "sha256": "b4632a3ff0555cb530ea32ffde4696644453e76c78204cd90177f81a4399feab",
-            "size": 3284992
-        },
-        "Databases/lichess.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-10-05T21:29:37Z",
-            "sha256": "f41afcee4acb9e2cfd20d54de0dab3913ee0da8c765b99840d6a79b5dcd347e2",
-            "size": 221184
-        },
-        "Databases/pppp.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-10-07T20:25:52Z",
-            "sha256": "dad2e468692d2bdba600b2598fc10d5dcb5564443dda07cd380a68dd1dc0d074",
-            "size": 155648
-        },
-        "Databases/tornei-elo-standard.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-10-04T17:37:20Z",
-            "sha256": "2357576a9d4e09f1034da041e315732d5e315829c0cad53d8a03c45df2e6151f",
-            "size": 94208
         },
         "LICENSE": {
             "device": "Yoga7",
@@ -354,7 +347,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 865,
-    "updatedAt": "2026-10-07T20:27:34Z",
+    "revision": 866,
+    "updatedAt": "2026-10-07T20:27:40Z",
     "updatedBy": "Yoga7"
 }
