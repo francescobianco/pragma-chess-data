@@ -26,7 +26,6 @@ engine:
   id: bundled
   name: Stockfish 18
   analyzing: true
-explain: true
 workspace:
   panels:
     toolbar: true
