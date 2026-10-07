@@ -8,21 +8,24 @@ chapters:
   list:
     - title: Capitolo 1
       game: 0
-      ply: 0
+      ply: 7
       games:
-        - uid: a3791889-c518-5a1f-8b2c-a5487744f518
-          event: "The UNBREAKABLE Catalan!: 📌Section 1: Main Lines📌"
-          date: 2026.09.26
-          fen: 8/8/8/8/8/8/8/8 w - - 0 1
-          tags: "[Variant \"Standard\"]\n[Opening \"?\"]\n[StudyName \"The UNBREAKABLE Catalan!\"]\n[ChapterName \"📌Section 1: Main Lines📌\"]\n[ChapterURL \"https://lichess.org/study/hAnnVmfo/bEE0urap\"]\n[Annotator \"https://lichess.org/@/mAtteoYOsef07\"]\n[UTCDate \"2026.09.26\"]\n[UTCTime \"09:13:21\"]\n[ChapterMode \"gamebook\"]"
-          comments: "{\"\":{\"0\":\"We first enter the main lines... 📌Main Ideas📌 1. Play on the queenside 2. Rapid development 3. Initiative 4. Positional play\"}}"
+        - white: francescobianco
+          black: maffyoube
+          whiteElo: 795
+          blackElo: 768
+          event: Partita classificata su lichess.org
+          site: https://lichess.org/zBwaB2Oq
+          date: 2026.10.07
+          result: "*"
+          moves: e2e4 g8f6 b1c3 e7e6 d2d4 f8d6 e4e5
 board:
   flipped: false
   coordinates: true
 engine:
   id: bundled
   name: Stockfish 18
-  analyzing: true
+  analyzing: false
 workspace:
   panels:
     toolbar: true
@@ -32,5 +35,5 @@ workspace:
     games: true
   gamesHeight: 33.17
   movesWidth: 33.91
-  engineHeight: 45.6
-  treeWidth: 22.81
+  engineHeight: 46.8
+  treeWidth: 23.28
