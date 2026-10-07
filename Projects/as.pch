@@ -9,25 +9,28 @@ chapters:
   list:
     - title: Capitolo 1
       game: 0
-      ply: 14
+      ply: 26
       games:
-        - white: francescobianco
-          black: MoeJoeBro
-          whiteElo: 795
-          blackElo: 779
-          event: Partita amichevole su lichess.org
-          site: https://lichess.org/M4Xe2kSY
-          date: 2026.10.06
+        - uid: lobby:273012407bd938d935aaddbdfaa00cf0df68860083c2eaee4e307e578622927b:46247ac4883e45144f0be5e1b0fc217ad40a32fa903daadd362a53e982760039:50c8dc800f4a92c3f61af09ac88556e9d26f0c9e1a01cbc4d25899407b5692f7
+          white: Claude
+          black: Francesco Bianco
+          event: Il sacrificio di Smyslov
+          site: Lobby di Pragma Chess
+          date: 2026.10.07
           result: "*"
-          moves: e2e4 g8f6 e4e5 f6d5 b1c3 d5b6 d2d4 d7d5 e5d6 c7d6 f1b5 c8d7 b5c6 d7c6
-          comments: "{\"\":{\"3\":\"dsfsfsfsdfs\\nfsfsd\",\"4\":\"asdasdasdasd\\n\\nsdfdf\"}}"
+          moves: e2e4 d7d5 e4d5 d8d5 b1c3 d5a5 d2d4 c7c6 g1f3 g8f6 f1c4 c8g4 h2h3 g4h5 g2g4 h5g6 f3e5 b8d7 e5d7 f6d7 c1d2 e7e6 d1e2 f8b4 a2a3 b4d6
 board:
-  flipped: false
+  flipped: true
   coordinates: true
 engine:
   id: beeac205-bcef-4e00-a43e-8f5792eca4e8
   name: Stockfish 16
-  analyzing: false
+  analyzing: true
+lobby:
+  room: 273012407bd938d935aaddbdfaa00cf0df68860083c2eaee4e307e578622927b
+  white: 46247ac4883e45144f0be5e1b0fc217ad40a32fa903daadd362a53e982760039
+  black: 50c8dc800f4a92c3f61af09ac88556e9d26f0c9e1a01cbc4d25899407b5692f7
+  mode: true
 workspace:
   panels:
     toolbar: true
@@ -37,5 +40,5 @@ workspace:
     games: true
   gamesHeight: 21.1
   movesWidth: 30.84
-  engineHeight: 47.15
-  treeWidth: 17.38
+  engineHeight: 56.98
+  treeWidth: 23.96
