@@ -90,9 +90,9 @@
         },
         "Databases/Classic Games.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-07T21:14:56Z",
-            "sha256": "7351f2ac275400823991b0f88403e6cda95c3c6bf732227ae8cee00a384aa98b",
-            "size": 86016
+            "modified": "2026-10-07T21:18:25Z",
+            "sha256": "4d47174a41493696df63d1c520400e3402fe1da15b22946f2704523e19e40c4c",
+            "size": 102400
         },
         "Databases/Endgames.pdb": {
             "device": "Yoga7",
@@ -359,7 +359,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 872,
-    "updatedAt": "2026-10-07T21:14:59Z",
+    "revision": 873,
+    "updatedAt": "2026-10-07T21:18:28Z",
     "updatedBy": "Yoga7"
 }
