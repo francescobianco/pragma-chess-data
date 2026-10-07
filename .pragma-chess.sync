@@ -89,10 +89,10 @@
             "size": 128928
         },
         "Databases/Classic Games.pdb": {
-            "device": "Intel5",
-            "modified": "2026-09-29T14:20:28Z",
-            "sha256": "e0a05cac6ace38411e0d3db96a1a921d085ad7cc56360d6036e308d1bc881bfa",
-            "size": 73728
+            "device": "Yoga7",
+            "modified": "2026-10-07T20:27:51Z",
+            "sha256": "9db90881d42c99cd7012213c83cbc646895ed64c91636ffb7cf3f3712a03a38c",
+            "size": 86016
         },
         "LICENSE": {
             "device": "Yoga7",
@@ -347,7 +347,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 866,
-    "updatedAt": "2026-10-07T20:27:40Z",
+    "revision": 867,
+    "updatedAt": "2026-10-07T20:27:53Z",
     "updatedBy": "Yoga7"
 }
