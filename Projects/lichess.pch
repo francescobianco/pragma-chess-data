@@ -1,12 +1,13 @@
 # Pragma Chess project
-pragma-chess: 2
+pragma-chess: 3
 database:
   path: /home/francesco/Scacchi/Pragma/Databases/Endgames.pdb
 chapters:
   current: 0
   none: true
   list:
-    - title: Capitolo 1
+    - title:
+        it: Capitolo 1
       game: 0
       ply: 0
       games:
@@ -33,5 +34,5 @@ workspace:
     games: true
   gamesHeight: 33.17
   movesWidth: 33.91
-  engineHeight: 46.65
-  treeWidth: 27.04
+  engineHeight: 48.14
+  treeWidth: 27.56

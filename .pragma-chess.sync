@@ -150,9 +150,9 @@
         },
         "Projects/lichess.pch": {
             "device": "Yoga7",
-            "modified": "2026-10-08T11:14:50Z",
-            "sha256": "9e4a6daf174efcbc88a588e2da7dfbc5cbdc1dffe8c3a557fdd28a3028ecc678",
-            "size": 961
+            "modified": "2026-10-08T17:50:28Z",
+            "sha256": "129c534cdde11b979661721fe911b738771af5fb7b7e36d2fcfb8f603b3e166e",
+            "size": 973
         },
         "Projects/rook-endgames.pch": {
             "device": "Intel5",
@@ -378,7 +378,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 887,
-    "updatedAt": "2026-10-08T17:41:07Z",
+    "revision": 888,
+    "updatedAt": "2026-10-08T17:54:05Z",
     "updatedBy": "Yoga7"
 }
