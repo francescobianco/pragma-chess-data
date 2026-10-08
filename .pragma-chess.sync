@@ -102,8 +102,8 @@
         },
         "Databases/Tactics.pdb": {
             "device": "Intel5",
-            "modified": "2026-10-08T07:41:41Z",
-            "sha256": "eb56199375510f4eb344c622735b1e81d98053bf2873f55ea03f8040e60eb715",
+            "modified": "2026-10-08T07:42:18Z",
+            "sha256": "2afa6f269b66483a5a981dc215f007fb832657f5f1896387e37e0945d8c53239",
             "size": 1081344
         },
         "LICENSE": {
@@ -359,7 +359,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 877,
-    "updatedAt": "2026-10-08T07:41:43Z",
+    "revision": 878,
+    "updatedAt": "2026-10-08T07:42:24Z",
     "updatedBy": "Intel5"
 }
