@@ -8,17 +8,15 @@ chapters:
   list:
     - title: Capitolo 1
       game: 0
-      ply: 34
+      ply: 0
       games:
-        - uid: 7111a8d6-495f-559b-bc41-bcc9040aca17
-          white: Botvinnik, Mikhail
-          black: Capablanca, Jose Raul
-          event: AVRO
-          site: Netherlands
-          date: 1938.??.??
-          result: 1-0
-          eco: E40
-          moves: d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 e2e3 d7d5 a2a3 b4c3 b2c3 c7c5 c4d5 e6d5 f1d3 e8g8 g1e2 b7b6 e1g1 c8a6 d3a6 b8a6 c1b2 d8d7 a3a4 f8e8 d1d3 c5c4 d3c2 a6b8 a1e1 b8c6 e2g3 c6a5 f2f3 a5b3 e3e4 d7a4 e4e5 f6d7 c2f2 g7g6 f3f4 f7f5 e5f6 d7f6 f4f5 e8e1 f1e1 a8e8 e1e6 e8e6 f5e6 g8g7 f2f4 a4e8 f4e5 e8e7 b2a3 e7a3 g3h5 g6h5 e5g5 g7f8 g5f6 f8g8 e6e7 a3c1 g1f2 c1c2 f2g3 c2d3 g3h4 d3e4 h4h5 e4e2 h5h4 e2e4 g2g4 e4e1 h4h5
+        - uid: 45e38fe3-1505-59b7-955f-cce6db4281cd
+          event: Puzzle iD9BI
+          site: https://lichess.org/jJaRex6n#105
+          result: "*"
+          fen: 8/8/P4R1K/2k4p/3p3P/3P4/r4p2/8 b - - 2 53
+          moves: a2a6 f6a6 f2f1q
+          tags: "[PuzzleId \"iD9BI\"]\n[PuzzleRating \"1158\"]\n[Themes \"advancedPawn crushing deflection endgame pin promotion rookEndgame short\"]\n[Annotator \"lichess.org puzzle database (CC0)\"]"
 board:
   flipped: false
   coordinates: true
