@@ -1,23 +1,34 @@
 # Pragma Chess project
-pragma-chess: 2
-name: Prova
+pragma-chess: 3
+name:
+  it: Prova
 database:
   path: /home/francesco/Chess/Pragma/Databases/Tactics.pdb
 chapters:
   current: 0
-  none: true
+  automatic: true
   list:
-    - title: Capitolo 1
+    - title:
+        it: Capitolo 1
       game: 0
-      ply: 0
+      ply: 4
       games:
-        - uid: 10e82a5e-cb29-5cff-8970-28d7c55e33ca
-          event: Puzzle 9OVqg
-          site: https://lichess.org/rKMw7hxE/black#112
+        - uid: e6451a5e-4e6a-570a-9de9-bbedba003fe4
+          event: Puzzle 9E53I
+          site: https://lichess.org/LMHkn0rT/black#20
           result: "*"
-          fen: 8/2P5/8/1kr5/p4R2/8/4K3/8 w - - 2 57
-          moves: f4f5 c5f5 c7c8q
-          tags: "[PuzzleId \"9OVqg\"]\n[PuzzleRating \"1188\"]\n[Themes \"advancedPawn crushing deflection endgame pin promotion rookEndgame short\"]\n[Annotator \"lichess.org puzzle database (CC0)\"]"
+          fen: r1b1k2r/pp2bppp/2n2n2/1qp5/3pNP2/3P4/PPPBQ1PP/R3K1NR w KQkq - 0 11
+          moves: e4d6 e8d8 d6b5 a7a6
+          variations: (1 Nxf6+ ) (3 Nxf7+ )
+          tags: "[PuzzleId \"9E53I\"]\n[PuzzleRating \"1165\"]\n[Themes \"crushing opening pin short\"]\n[Annotator \"lichess.org puzzle database (CC0)\"]"
+          paragraphs:
+            - ply: 4
+              kind: title
+              text:
+                en: |
+                  Inglese
+                it: |
+                  Italiano
 board:
   flipped: false
   coordinates: true
@@ -36,5 +47,5 @@ workspace:
     games: true
   gamesHeight: 22.1
   movesWidth: 31.12
-  engineHeight: 48.2
-  treeWidth: 25.84
+  engineHeight: 47.76
+  treeWidth: 27.14

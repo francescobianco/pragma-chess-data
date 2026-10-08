@@ -132,9 +132,9 @@
         },
         "Projects/as.pch": {
             "device": "Intel5",
-            "modified": "2026-10-08T07:52:43Z",
-            "sha256": "c07ff8edd4961bf7155b5ff1ffe9880ed8fa5aee3379438d8025e14e866f07be",
-            "size": 1022
+            "modified": "2026-10-08T17:20:35Z",
+            "sha256": "3f3541b6c06d6d13c60df770bcfe8ace165bf484b8b415a025806c92884909ec",
+            "size": 1263
         },
         "Projects/chess-com.pch": {
             "device": "Yoga7",
@@ -365,7 +365,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 883,
-    "updatedAt": "2026-10-08T17:13:42Z",
+    "revision": 884,
+    "updatedAt": "2026-10-08T17:20:41Z",
     "updatedBy": "Intel5"
 }
