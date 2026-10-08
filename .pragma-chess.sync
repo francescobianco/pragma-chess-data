@@ -95,15 +95,21 @@
             "size": 102400
         },
         "Databases/Endgames.pdb": {
-            "device": "Intel5",
-            "modified": "2026-10-08T07:41:41Z",
-            "sha256": "81d68cca6c0c3c295cc77037aa22466980638c6b4f7700fe7702dbb032cf4d8b",
+            "device": "Yoga7",
+            "modified": "2026-10-08T17:41:00Z",
+            "sha256": "5137f83185fe34a0ef8c01dbdd91d20f05136b1ff31cd7815786cb2bcce259d6",
             "size": 1257472
         },
-        "Databases/Tactics.pdb": {
-            "device": "Intel5",
-            "modified": "2026-10-08T12:45:48Z",
+        "Databases/Tactics (conflict, Intel5, 2026-10-08 14.45).pdb": {
+            "device": "Yoga7",
+            "modified": "2026-10-08T17:41:04Z",
             "sha256": "bed4e47ed69b42c59d7c6e6e9e99285b28a2a638f2aef4ac6d0d716c65c55855",
+            "size": 1081344
+        },
+        "Databases/Tactics.pdb": {
+            "device": "Yoga7",
+            "modified": "2026-10-08T17:41:00Z",
+            "sha256": "817c91d906a0c378e5aafc176465e427caeaa9c1476caa6df4d7a57047979b3f",
             "size": 1081344
         },
         "LICENSE": {
@@ -371,7 +377,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 885,
-    "updatedAt": "2026-10-08T17:26:12Z",
-    "updatedBy": "Intel5"
+    "revision": 886,
+    "updatedAt": "2026-10-08T17:41:04Z",
+    "updatedBy": "Yoga7"
 }
