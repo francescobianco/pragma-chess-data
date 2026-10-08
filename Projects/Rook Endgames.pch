@@ -6,14 +6,14 @@ name:
 multilingual: true
 read-only: true
 database:
-  path: ~
+  path: /home/francesco/Scacchi/Pragma/Databases/Endgames.pdb
 chapters:
   current: 0
   list:
     - title:
         en: Rook against Pawn
         it: Torre contro pedone
-      game: 0
+      game: 2
       ply: 0
       games:
         - result: 1-0
@@ -108,6 +108,9 @@ chapters:
                   Promoting to a queen falls into the trap: 6.c8=Q? Rc4+! and taking the rook leaves Black's king with no move — stalemate, a draw. A rook does not give stalemate: White now threatens Rc1 mate, and Black can only throw the rook away.
                 it: |
                   Promuovere a Donna cade nella trappola: 6.c8=D? Tc4+! e prendere la torre lascia il re nero senza mosse — stallo, patta. Una torre non dà stallo: il Bianco minaccia Tc1 matto, e il Nero può solo regalare la torre.
+        - white: Francesco Bianco
+          date: 2026.10.08
+          result: "*"
     - title:
         en: Building the Bridge
         it: La costruzione del ponte
@@ -502,16 +505,17 @@ board:
   flipped: false
   coordinates: true
 engine:
-  name: ~
+  id: bundled
+  name: Stockfish 18
   analyzing: false
 workspace:
   panels:
     toolbar: true
     moves: true
     openingTree: false
-    engine: true
-    games: true
+    engine: false
+    games: false
   gamesHeight: 32
-  movesWidth: 50
-  engineHeight: 25
-  treeWidth: 22
+  movesWidth: 68.43
+  engineHeight: 38.03
+  treeWidth: 22.03
