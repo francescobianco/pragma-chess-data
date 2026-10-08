@@ -148,6 +148,12 @@
             "sha256": "9e4a6daf174efcbc88a588e2da7dfbc5cbdc1dffe8c3a557fdd28a3028ecc678",
             "size": 961
         },
+        "Projects/rook-endgames.pch": {
+            "device": "Intel5",
+            "modified": "2026-10-08T17:13:39Z",
+            "sha256": "4e11af0b735173d36361ceb9d116b531a3c25345759c979d3772fb3267861009",
+            "size": 40
+        },
         "Projects/scacchi1.pch": {
             "device": "Yoga7",
             "modified": "2026-10-05T15:13:38Z",
@@ -359,7 +365,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 882,
-    "updatedAt": "2026-10-08T16:43:32Z",
+    "revision": 883,
+    "updatedAt": "2026-10-08T17:13:42Z",
     "updatedBy": "Intel5"
 }
