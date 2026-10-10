@@ -96,14 +96,14 @@
         },
         "Databases/Endgames.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-10T09:21:46Z",
-            "sha256": "13cf2929a766824c101e74bd9bc5c7deb57b0ffa5b8b9cbd822487631c19eacd",
+            "modified": "2026-10-10T13:46:15Z",
+            "sha256": "bcced675d7c08f925187f3ccbfb07a086b9fdf902289ccc8935552e042af7e34",
             "size": 1257472
         },
         "Databases/Tactics.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-10T09:21:47Z",
-            "sha256": "d06ef7510b71d6880f91358fe05d56c017be10535377d3630b383450dd7ad9d8",
+            "modified": "2026-10-10T13:46:15Z",
+            "sha256": "3ac1c622cb1bb37332a3b1f1cd605711ba5362c0f1300134f4f876cdcfb79c30",
             "size": 1081344
         },
         "LICENSE": {
@@ -120,9 +120,9 @@
         },
         "Projects/Pawn Endgames.pch": {
             "device": "Yoga7",
-            "modified": "2026-10-10T09:21:47Z",
-            "sha256": "a563a8f026b16a744afedac6f01a5bb701149ef29a6b998e4a43c3ed108fb3a4",
-            "size": 18993
+            "modified": "2026-10-10T13:46:15Z",
+            "sha256": "9ebd1efd3009000712c67cdacfbd9dd1c8e2e6a4651b2d8a2dd7c669676e45a6",
+            "size": 19041
         },
         "Projects/Rook Endgames.pch": {
             "device": "Yoga7",
@@ -397,7 +397,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 893,
-    "updatedAt": "2026-10-10T10:04:01Z",
+    "revision": 894,
+    "updatedAt": "2026-10-10T13:46:17Z",
     "updatedBy": "Yoga7"
 }
