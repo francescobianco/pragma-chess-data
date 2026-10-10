@@ -318,6 +318,13 @@
             "intoPath": "Books/Opening Names/English.pdb",
             "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c01"
         },
+        "Databases/Partite classiche.pdb": {
+            "at": "2026-10-10T09:48:53Z",
+            "device": "Yoga7",
+            "into": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c02",
+            "intoPath": "Databases/Classic Games.pdb",
+            "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c02"
+        },
         "Databases/Tactics (conflict, Intel5, 2026-10-08 14.45).pdb": {
             "at": "2026-10-08T17:41:04Z",
             "device": "Yoga7",
@@ -390,7 +397,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 891,
-    "updatedAt": "2026-10-10T09:21:49Z",
+    "revision": 892,
+    "updatedAt": "2026-10-10T09:48:53Z",
     "updatedBy": "Yoga7"
 }
