@@ -96,8 +96,8 @@
         },
         "Databases/Endgames.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-10T17:02:11Z",
-            "sha256": "50251992fe837fce032cd305b01c6d8977bca4c47e2f29e57b4f4fefa10cb562",
+            "modified": "2026-10-10T17:06:54Z",
+            "sha256": "da65295066afc9522c6758ff7a56c6fe4bddf65631ec2a335e52539a47ded3fe",
             "size": 1261568
         },
         "Databases/Tactics.pdb": {
@@ -397,7 +397,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 899,
-    "updatedAt": "2026-10-10T17:03:35Z",
+    "revision": 900,
+    "updatedAt": "2026-10-10T17:08:35Z",
     "updatedBy": "Yoga7"
 }
