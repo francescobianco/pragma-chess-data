@@ -319,7 +319,7 @@
             "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c01"
         },
         "Databases/Partite classiche.pdb": {
-            "at": "2026-10-10T09:48:53Z",
+            "at": "2026-10-10T10:04:00Z",
             "device": "Yoga7",
             "into": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c02",
             "intoPath": "Databases/Classic Games.pdb",
@@ -397,7 +397,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 892,
-    "updatedAt": "2026-10-10T09:48:53Z",
+    "revision": 893,
+    "updatedAt": "2026-10-10T10:04:01Z",
     "updatedBy": "Yoga7"
 }
