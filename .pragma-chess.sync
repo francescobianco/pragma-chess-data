@@ -90,20 +90,20 @@
         },
         "Databases/Classic Games.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-07T21:18:25Z",
-            "sha256": "4d47174a41493696df63d1c520400e3402fe1da15b22946f2704523e19e40c4c",
+            "modified": "2026-10-10T09:21:46Z",
+            "sha256": "2578d434859533e7827f87c6010f4aa7ba3d94e77a840a7f72e8b11de8a71a06",
             "size": 102400
         },
         "Databases/Endgames.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-08T17:41:00Z",
-            "sha256": "5137f83185fe34a0ef8c01dbdd91d20f05136b1ff31cd7815786cb2bcce259d6",
+            "modified": "2026-10-10T09:21:46Z",
+            "sha256": "13cf2929a766824c101e74bd9bc5c7deb57b0ffa5b8b9cbd822487631c19eacd",
             "size": 1257472
         },
         "Databases/Tactics.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-08T17:41:04Z",
-            "sha256": "5d8f73d28ecc0a8fdecfa69e6a7fc7edd54b094a7650baeffd2480c980156b0c",
+            "modified": "2026-10-10T09:21:47Z",
+            "sha256": "d06ef7510b71d6880f91358fe05d56c017be10535377d3630b383450dd7ad9d8",
             "size": 1081344
         },
         "LICENSE": {
@@ -111,6 +111,18 @@
             "modified": "2026-09-17T20:05:16Z",
             "sha256": "0535fe4ec412ddc98080d0388a78644c16f3191da01fb883330936ac48fecc88",
             "size": 1080
+        },
+        "Projects/Fischer Spassky 1972.pch": {
+            "device": "Yoga7",
+            "modified": "2026-10-10T09:21:47Z",
+            "sha256": "2007ceeceee75e73b70b7ccca91267a49d5fdf79e3ed6b0464f842bb3680afc8",
+            "size": 8391
+        },
+        "Projects/Pawn Endgames.pch": {
+            "device": "Yoga7",
+            "modified": "2026-10-10T09:21:47Z",
+            "sha256": "a563a8f026b16a744afedac6f01a5bb701149ef29a6b998e4a43c3ed108fb3a4",
+            "size": 18993
         },
         "Projects/Rook Endgames.pch": {
             "device": "Yoga7",
@@ -378,7 +390,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 890,
-    "updatedAt": "2026-10-08T18:12:24Z",
+    "revision": 891,
+    "updatedAt": "2026-10-10T09:21:49Z",
     "updatedBy": "Yoga7"
 }
