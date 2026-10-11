@@ -108,9 +108,9 @@
         },
         "Databases/Varie.pdb": {
             "device": "Yoga7",
-            "modified": "2026-10-11T12:57:41Z",
-            "sha256": "617921abfcfe2bb6fa8aa1a8fd9511919636961b68270f48947d8679fae762f3",
-            "size": 102400
+            "modified": "2026-10-11T13:06:28Z",
+            "sha256": "a0d4abb9b10116c3a15ad79a40fc546ccd145e76c434cb9a5096a4621d0802bb",
+            "size": 106496
         },
         "LICENSE": {
             "device": "Yoga7",
@@ -403,7 +403,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 922,
-    "updatedAt": "2026-10-11T12:58:25Z",
+    "revision": 923,
+    "updatedAt": "2026-10-11T13:08:25Z",
     "updatedBy": "Yoga7"
 }
