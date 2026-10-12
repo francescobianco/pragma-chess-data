@@ -88,35 +88,17 @@
             "sha256": "e002288655157d3b1096cb10ecb4332d5c98b4b04e3adb29683e9a39fe53929b",
             "size": 128928
         },
-        "Databases/Classic Games (conflict, Yoga7, 2026-10-10 11.21).pdb": {
-            "device": "Intel5",
-            "modified": "2026-10-12T07:40:38Z",
-            "sha256": "2578d434859533e7827f87c6010f4aa7ba3d94e77a840a7f72e8b11de8a71a06",
-            "size": 102400
-        },
         "Databases/Classic Games.pdb": {
             "device": "Intel5",
             "modified": "2026-10-12T07:40:33Z",
             "sha256": "b3e0e5a88ae1c5d48320ac1af2fa5c5bd52e467c5fdc430c93c0538567420d0d",
             "size": 106496
         },
-        "Databases/Endgames (conflict, Yoga7, 2026-10-11 11.03).pdb": {
-            "device": "Intel5",
-            "modified": "2026-10-12T07:40:38Z",
-            "sha256": "ee5bc68c582b1c883970aecdf9e9e095a0ae0822f2d19ab27c2c72e533b662a4",
-            "size": 1761280
-        },
         "Databases/Endgames.pdb": {
             "device": "Intel5",
-            "modified": "2026-10-12T07:40:33Z",
-            "sha256": "73ed3f52b277a8ebe080585d781e41ae3632938ea081372ff29ee5db811f20b1",
-            "size": 1757184
-        },
-        "Databases/Tactics (conflict, Yoga7, 2026-10-10 15.46).pdb": {
-            "device": "Intel5",
             "modified": "2026-10-12T07:40:38Z",
-            "sha256": "3ac1c622cb1bb37332a3b1f1cd605711ba5362c0f1300134f4f876cdcfb79c30",
-            "size": 1081344
+            "sha256": "33d27a70c17fe313390c4869c89b6fd2ba69ac834ac669362dec45a3aab89026",
+            "size": 1761280
         },
         "Databases/Tactics.pdb": {
             "device": "Intel5",
@@ -334,6 +316,20 @@
             "intoPath": "Databases/Classic Games.pdb",
             "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c02"
         },
+        "Databases/Classic Games (conflict, Yoga7, 2026-10-10 11.21).pdb": {
+            "at": "2026-10-12T07:40:38Z",
+            "device": "Intel5",
+            "into": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c02",
+            "intoPath": "Databases/Classic Games.pdb",
+            "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c02"
+        },
+        "Databases/Endgames (conflict, Yoga7, 2026-10-11 11.03).pdb": {
+            "at": "2026-10-12T07:40:38Z",
+            "device": "Intel5",
+            "into": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c04",
+            "intoPath": "Databases/Endgames.pdb",
+            "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c04"
+        },
         "Databases/Le mie partite (Samsung SM-N960F).pdb": {
             "at": "2026-09-29T15:05:12Z",
             "device": "Intel5",
@@ -358,6 +354,13 @@
         "Databases/Tactics (conflict, Intel5, 2026-10-08 14.45).pdb": {
             "at": "2026-10-08T17:41:04Z",
             "device": "Yoga7",
+            "into": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c05",
+            "intoPath": "Databases/Tactics.pdb",
+            "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c05"
+        },
+        "Databases/Tactics (conflict, Yoga7, 2026-10-10 15.46).pdb": {
+            "at": "2026-10-12T07:40:39Z",
+            "device": "Intel5",
             "into": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c05",
             "intoPath": "Databases/Tactics.pdb",
             "lineage": "7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c05"
@@ -427,7 +430,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 927,
-    "updatedAt": "2026-10-12T07:40:39Z",
+    "revision": 928,
+    "updatedAt": "2026-10-12T07:40:42Z",
     "updatedBy": "Intel5"
 }
