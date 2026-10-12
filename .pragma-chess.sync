@@ -88,23 +88,41 @@
             "sha256": "e002288655157d3b1096cb10ecb4332d5c98b4b04e3adb29683e9a39fe53929b",
             "size": 128928
         },
-        "Databases/Classic Games.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-10-10T09:21:46Z",
+        "Databases/Classic Games (conflict, Yoga7, 2026-10-10 11.21).pdb": {
+            "device": "Intel5",
+            "modified": "2026-10-12T07:40:38Z",
             "sha256": "2578d434859533e7827f87c6010f4aa7ba3d94e77a840a7f72e8b11de8a71a06",
             "size": 102400
         },
-        "Databases/Endgames.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-10-11T09:03:34Z",
+        "Databases/Classic Games.pdb": {
+            "device": "Intel5",
+            "modified": "2026-10-12T07:40:33Z",
+            "sha256": "b3e0e5a88ae1c5d48320ac1af2fa5c5bd52e467c5fdc430c93c0538567420d0d",
+            "size": 106496
+        },
+        "Databases/Endgames (conflict, Yoga7, 2026-10-11 11.03).pdb": {
+            "device": "Intel5",
+            "modified": "2026-10-12T07:40:38Z",
             "sha256": "ee5bc68c582b1c883970aecdf9e9e095a0ae0822f2d19ab27c2c72e533b662a4",
             "size": 1761280
         },
-        "Databases/Tactics.pdb": {
-            "device": "Yoga7",
-            "modified": "2026-10-10T13:46:15Z",
+        "Databases/Endgames.pdb": {
+            "device": "Intel5",
+            "modified": "2026-10-12T07:40:33Z",
+            "sha256": "73ed3f52b277a8ebe080585d781e41ae3632938ea081372ff29ee5db811f20b1",
+            "size": 1757184
+        },
+        "Databases/Tactics (conflict, Yoga7, 2026-10-10 15.46).pdb": {
+            "device": "Intel5",
+            "modified": "2026-10-12T07:40:38Z",
             "sha256": "3ac1c622cb1bb37332a3b1f1cd605711ba5362c0f1300134f4f876cdcfb79c30",
             "size": 1081344
+        },
+        "Databases/Tactics.pdb": {
+            "device": "Intel5",
+            "modified": "2026-10-12T07:40:34Z",
+            "sha256": "c7a38ae08030682d32c9ca59b2b64046f66df573ed8246fb02e516a9adcbf795",
+            "size": 1515520
         },
         "Databases/Varie.pdb": {
             "device": "Yoga7",
@@ -130,11 +148,17 @@
             "sha256": "9ebd1efd3009000712c67cdacfbd9dd1c8e2e6a4651b2d8a2dd7c669676e45a6",
             "size": 19041
         },
-        "Projects/Rook Endgames.pch": {
-            "device": "Yoga7",
-            "modified": "2026-10-08T18:09:14Z",
+        "Projects/Rook Endgames (conflict, Yoga7, 2026-10-08 20.09).pch": {
+            "device": "Intel5",
+            "modified": "2026-10-12T07:40:38Z",
             "sha256": "ea401219012ba8239c6799b8e9f2be639f0ed7dbbeb5d946c47ef3eb5ad6b659",
             "size": 29055
+        },
+        "Projects/Rook Endgames.pch": {
+            "device": "Intel5",
+            "modified": "2026-10-12T07:40:34Z",
+            "sha256": "d6c05af9ff8bb49eee93913e7eea7c51b82f030ee0f2e0caa8102d7ee084894d",
+            "size": 28928
         },
         "Projects/Untitled.pch": {
             "device": "Yoga7",
@@ -403,7 +427,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 926,
-    "updatedAt": "2026-10-11T19:43:32Z",
-    "updatedBy": "Yoga7"
+    "revision": 927,
+    "updatedAt": "2026-10-12T07:40:39Z",
+    "updatedBy": "Intel5"
 }

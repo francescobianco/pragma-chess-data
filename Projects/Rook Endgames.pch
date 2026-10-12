@@ -2,18 +2,19 @@
 pragma-chess: 3
 name:
   en: Rook Endgames
-  it: I finali di torre
+  it: Finali di torre
 multilingual: true
 read-only: true
 database:
-  path: /home/francesco/Scacchi/Pragma/Databases/Endgames.pdb
+  path: ~
+  lineage: 7b0c5a1e-3f0d-4a55-9e3c-6f1d0a9b4c04
 chapters:
   current: 0
   list:
     - title:
         en: Rook against Pawn
         it: Torre contro pedone
-      game: 2
+      game: 0
       ply: 0
       games:
         - result: 1-0
@@ -27,7 +28,7 @@ chapters:
                 en: |
                   Rook Endgames
                 it: |
-                  I finali di torre
+                  Finali di torre
             - ply: 0
               kind: subtitle
               text:
@@ -108,9 +109,6 @@ chapters:
                   Promoting to a queen falls into the trap: 6.c8=Q? Rc4+! and taking the rook leaves Black's king with no move — stalemate, a draw. A rook does not give stalemate: White now threatens Rc1 mate, and Black can only throw the rook away.
                 it: |
                   Promuovere a Donna cade nella trappola: 6.c8=D? Tc4+! e prendere la torre lascia il re nero senza mosse — stallo, patta. Una torre non dà stallo: il Bianco minaccia Tc1 matto, e il Nero può solo regalare la torre.
-        - white: Francesco Bianco
-          date: 2026.10.08
-          result: "*"
     - title:
         en: Building the Bridge
         it: La costruzione del ponte
@@ -505,17 +503,16 @@ board:
   flipped: false
   coordinates: true
 engine:
-  id: bundled
-  name: Stockfish 18
+  name: ~
   analyzing: false
 workspace:
   panels:
     toolbar: true
     moves: true
     openingTree: false
-    engine: false
-    games: false
+    engine: true
+    games: true
   gamesHeight: 32
-  movesWidth: 68.43
-  engineHeight: 38.03
-  treeWidth: 22.03
+  movesWidth: 50
+  engineHeight: 25
+  treeWidth: 22
