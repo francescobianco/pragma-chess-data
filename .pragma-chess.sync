@@ -90,8 +90,8 @@
         },
         "Databases/Classic Games.pdb": {
             "device": "Intel5",
-            "modified": "2026-10-12T07:40:33Z",
-            "sha256": "b3e0e5a88ae1c5d48320ac1af2fa5c5bd52e467c5fdc430c93c0538567420d0d",
+            "modified": "2026-10-12T11:18:37Z",
+            "sha256": "7a915415d02b25c4ec6b3006c2a3be93a4dfb9c9d0cc640827afc503fc644a86",
             "size": 106496
         },
         "Databases/Endgames.pdb": {
@@ -430,7 +430,7 @@
         }
     },
     "pragma-chess-sync": 2,
-    "revision": 929,
-    "updatedAt": "2026-10-12T09:40:49Z",
+    "revision": 930,
+    "updatedAt": "2026-10-12T11:23:10Z",
     "updatedBy": "Intel5"
 }
